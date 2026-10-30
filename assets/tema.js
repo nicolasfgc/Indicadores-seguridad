@@ -112,13 +112,15 @@ function pestanaDelitos(cfg) {
 
   function serieDel() {
     const k = corte(), d = st.d, X = D.delitos[d], F = D.meses.slice(0, k.iu + 1), t = X.total.slice(0, k.iu + 1);
-    const tasa = st.medida === "t";
+    // en la vista por año siempre se muestran los totales de cada año (la opción "últimos 12 meses" es solo mes a mes)
+    const porAnio = !!modoAnual[`${id}-ser`], tasa = st.medida === "t" && !porAnio;
     const datos = tasa ? t.map((v, i) => { const s = doce(t, i); return s == null ? null : X.tasa ? s / pobAnio(+F[i].slice(0, 4)) * 1e5 : s; }) : t;
-    $$("ser-t").textContent = tasa ? (X.tasa ? `${X.n}: tasa de los últimos 12 meses por cada 100.000 habitantes` : `${X.n}: total de los últimos 12 meses`) : `${X.n} cada mes`;
+    $$("ser-t").textContent = porAnio ? `${X.n} cada año` : tasa ? (X.tasa ? `${X.n}: tasa de los últimos 12 meses por cada 100.000 habitantes` : `${X.n}: total de los últimos 12 meses`) : `${X.n} cada mes`;
     $$("exp").innerHTML = (cfg.exp?.[d] || []).map(([a, b]) => `<div><strong>${a}</strong><span>${b}</span></div>`).join("");
     const f = tasa && X.tasa ? (x => num(x, 1)) : (x => cantidad(d, x));
     serie(`${id}-ser`, F, [{label: tasa ? (X.tasa ? "Tasa por 100.000 habitantes (12 meses)" : "Total de 12 meses") : X.n, data: datos, color: css("--grafica"), ancho: 2.5}],
-      {agregar: tasa ? "fin" : "suma", finEsAnual: true, fmtValor: x => x == null ? "–" : f(x), eje0: true, inicio: tasa ? 120 : 24, despues: (i0, i1) => {
+      {agregar: tasa ? "fin" : "suma", finEsAnual: true, modoAntesDe: `${id}-med`, ocultarEnAnual: [`${id}-med`], alCambiarModo: serieDel,
+       fmtValor: x => x == null ? "–" : f(x), eje0: true, inicio: tasa ? 120 : 24, despues: (i0, i1) => {
         const v = t[i1], v12 = t[i1 - 12], tr = datos.slice(i0, i1 + 1).map((x, j) => [x, F[i0 + j]]).filter(x => x[0] != null);
         const mx = tr.reduce((a, b) => b[0] > a[0] ? b : a, tr[0]), mn = tr.reduce((a, b) => b[0] < a[0] ? b : a, tr[0]);
         let txt = `En <strong>${MES_L(F[i1])} de ${F[i1].slice(0, 4)}</strong> se registraron <strong>${cantidad(d, v)}</strong>` +
