@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Seguridad en Colombia en datos</title>
+<meta name="author" content="Nicolás González">
+<meta name="description" content="Explorador abierto de los indicadores de seguridad en Colombia: homicidios, hurtos, extorsión, secuestro, violencia intrafamiliar y narcotráfico, mes a mes y con actualización automática.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/estilos.css?v=1">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="assets/comun.js?v=1"></script>
+<script src="assets/tema.js?v=1"></script>
+<script src="assets/resumen.js?v=1"></script>
+<script src="assets/pestanas.js?v=1"></script>
+</head>
+<body>
+<header class="appbar">
+  <div class="wrap">
+    <div class="marca">
+      <div>
+        <h1>Seguridad en Colombia en datos</h1>
+        <p class="sub">Las cifras oficiales de delitos y violencia, mes a mes, explicadas para todos.</p>
+      </div>
+      <p class="autor"><span>Por <strong>Nicolás González</strong></span><a href="mailto:nicolasfgcht@gmail.com">nicolasfgcht@gmail.com</a><a href="https://www.linkedin.com/in/nicolas-gonzalezc/" target="_blank" rel="noopener">LinkedIn</a></p>
+    </div>
+  </div>
+</header>
+<div class="navbar"><div class="wrap">
+  <nav class="tabs">
+    <a href="#resumen" data-tab="resumen">Resumen</a>
+    <a href="#homicidios" data-tab="homicidios">Homicidios</a>
+    <a href="#hurtos" data-tab="hurtos">Hurtos</a>
+    <a href="#conflicto" data-tab="conflicto">Extorsión, secuestro y conflicto</a>
+    <a href="#violencia" data-tab="violencia">Violencia en el hogar</a>
+    <a href="#narcotrafico" data-tab="narcotrafico">Narcotráfico</a>
+  </nav>
+</div></div>
+<div class="wrap">
+  <div class="subbar"><label class="toggle"><input type="checkbox" id="ver-gobiernos" checked> Marcar gobiernos en las gráficas</label></div>
+
+  <section class="tab" id="tab-resumen" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <p class="hint mb" id="res-nota"></p>
+      <div class="tarjetas"></div>
+      <p class="foot">Fuente: Ministerio de Defensa Nacional con datos de la Policía Nacional. Son hechos registrados (denuncias y reportes), no todo lo que ocurre.</p>
+    </div>
+  </section>
+  <section class="tab" id="tab-homicidios" hidden><div class="cargando">Cargando datos…</div><div class="contenido" hidden></div></section>
+  <section class="tab" id="tab-hurtos" hidden><div class="cargando">Cargando datos…</div><div class="contenido" hidden></div></section>
+  <section class="tab" id="tab-conflicto" hidden><div class="cargando">Cargando datos…</div><div class="contenido" hidden></div></section>
+  <section class="tab" id="tab-violencia" hidden><div class="cargando">Cargando datos…</div><div class="contenido" hidden></div></section>
+  <section class="tab" id="tab-narcotrafico" hidden><div class="cargando">Cargando datos…</div><div class="contenido" hidden></div></section>
+
+  <details class="sobre">
+    <summary>¿De dónde salen los datos y cada cuánto se actualizan?</summary>
+    <p class="hint" style="margin-top:8px">El Ministerio de Defensa publica cada mes en datos abiertos los delitos que registra la Policía Nacional, por día y municipio, desde 2003. La página revisa la fuente todos los días a las 10 de la mañana y se actualiza sola.</p>
+    <ul class="hint">
+      <li><strong>Son hechos registrados</strong>, es decir, denuncias y reportes de la Fuerza Pública. En delitos que la gente denuncia poco (hurto, extorsión, violencia intrafamiliar, delitos sexuales) la realidad es mayor que la cifra, y las subidas o bajadas pueden reflejar cambios en la denuncia.</li>
+      <li><strong>El último mes publicado llega incompleto</strong>: la Policía sigue sumando registros durante varias semanas. Por eso las comparaciones se hacen con el último mes completo.</li>
+      <li><strong>Tasas</strong>: se calculan por cada 100.000 habitantes con las proyecciones de población del DANE.</li>
+    </ul>
+  </details>
+  <p class="foot">Todos los datos y el código están en <a href="https://github.com/nicolasfgc/Indicadores-seguridad">GitHub</a>. Proyectos hermanos: <a href="https://nicolasfgc.github.io/Indicadores-economia-colombiana/">Economía colombiana en datos</a> · <a href="https://nicolasfgc.github.io/Indicadores-educativos/">Educación en Colombia en datos</a>.</p>
+</div>
+</body>
+</html>

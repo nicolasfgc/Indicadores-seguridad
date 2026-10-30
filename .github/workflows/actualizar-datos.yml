@@ -1,0 +1,53 @@
+name: Actualizar datos
+
+# Corre todos los días a las 10:00 a. m. hora Colombia (15:00 UTC). Si no hay datos nuevos, no guarda nada.
+# El Ministerio de Defensa actualiza los delitos una vez al mes (hacia el día 20, con datos hasta el mes anterior).
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Delitos (Ministerio de Defensa - Policía Nacional)
+        run: python scripts/delitos.py
+
+      # Las proyecciones de población casi no cambian: se bajan solo si faltan o el primer día de cada mes
+      - name: Población (DANE)
+        if: always()
+        run: |
+          if [ ! -f datos/poblacion/deptos.csv ] || [ "$(date -u +%d)" = "01" ]; then python scripts/poblacion.py; fi
+
+      - name: Datos para la página web
+        if: always()
+        run: python scripts/web.py
+
+      - name: Guardar cambios si hay datos nuevos
+        if: always()
+        run: |
+          git config user.name "actualizador-automatico"
+          git config user.email "actions@users.noreply.github.com"
+          git add datos/ web/
+          if git diff --cached --quiet; then
+            echo "Sin datos nuevos."
+          else
+            git commit -m "Actualización automática de datos $(date -u +%Y-%m-%d)"
+            git pull --rebase
+            git push
+          fi

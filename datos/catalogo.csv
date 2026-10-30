@@ -1,0 +1,22 @@
+tema,delito,conjunto,descripcion
+Homicidios,homicidio,m8fd-ahd9,"Víctimas de homicidio (incluye feminicidios), por sexo, arma, zona y tipo"
+Homicidios,homicidio_transito,uav5-b85g,Muertes en accidentes de tránsito
+Hurtos,hurto_personas,4rxi-8m8d,Hurto a personas
+Hurtos,hurto_residencias,7mn7-vzqp,Hurto a residencias
+Hurtos,hurto_comercio,7i2x-h5vp,Hurto a comercio
+Hurtos,hurto_vehiculos,csb4-y6v2,"Hurto de vehículos (motos y automotores)"
+Hurtos,hurto_financieras,i7h7-wmjc,Hurto a entidades financieras
+Hurtos,pirateria_terrestre,sutf-7dyz,Piratería terrestre
+Conflicto,extorsion,q2ib-t9am,Extorsión
+Conflicto,secuestro,d7zw-hpf4,"Secuestro simple y extorsivo"
+Conflicto,masacres,u8eq-92tb,"Masacres (casos y víctimas, desde 2022)"
+Conflicto,terrorismo,yi5j-5fe9,Terrorismo
+Conflicto,voladuras,m98b-cdys,Voladura de puentes y vías
+Conflicto,fuerza_publica,8rpn-wpty,Miembros de la Fuerza Pública asesinados o heridos
+Violencia,violencia_intrafamiliar,gepp-dxcs,Violencia intrafamiliar
+Violencia,delitos_sexuales,bz43-8ahq,Delitos sexuales (por sexo de la víctima)
+Violencia,lesiones,jr6v-i33g,Lesiones personales
+Narcotráfico,incautacion_cocaina,26zg-9p9r,Cocaína incautada (kilos)
+Narcotráfico,incautacion_base,nxbk-nikm,Base de coca incautada (kilos)
+Narcotráfico,incautacion_basuco,3cjd-phaj,Bazuco incautado (kilos)
+Narcotráfico,erradicacion,p72f-qcvk,"Erradicación de coca, amapola y marihuana (hectáreas)"
