@@ -118,7 +118,7 @@ function pestanaDelitos(cfg) {
     $$("exp").innerHTML = (cfg.exp?.[d] || []).map(([a, b]) => `<div><strong>${a}</strong><span>${b}</span></div>`).join("");
     const f = tasa && X.tasa ? (x => num(x, 1)) : (x => cantidad(d, x));
     serie(`${id}-ser`, F, [{label: tasa ? (X.tasa ? "Tasa por 100.000 habitantes (12 meses)" : "Total de 12 meses") : X.n, data: datos, color: css("--grafica"), ancho: 2.5}],
-      {fmtValor: x => x == null ? "–" : f(x), eje0: true, inicio: tasa ? 120 : 24, despues: (i0, i1) => {
+      {agregar: tasa ? "fin" : "suma", finEsAnual: true, fmtValor: x => x == null ? "–" : f(x), eje0: true, inicio: tasa ? 120 : 24, despues: (i0, i1) => {
         const v = t[i1], v12 = t[i1 - 12], tr = datos.slice(i0, i1 + 1).map((x, j) => [x, F[i0 + j]]).filter(x => x[0] != null);
         const mx = tr.reduce((a, b) => b[0] > a[0] ? b : a, tr[0]), mn = tr.reduce((a, b) => b[0] < a[0] ? b : a, tr[0]);
         let txt = `En <strong>${MES_L(F[i1])} de ${F[i1].slice(0, 4)}</strong> se registraron <strong>${cantidad(d, v)}</strong>` +
@@ -171,7 +171,7 @@ function pestanaDelitos(cfg) {
     const series = top.map((c, i) => ({label: c, data: ser12(cats[c]), color: pal[i], ancho: 2.2}));
     if (resto.length) { const o = F.map((f, i) => resto.reduce((s, c) => s + (cats[c][i] || 0), 0)); series.push({label: "Otros", data: ser12(o), color: css("--muted"), ancho: 1.6}); }
     $$("det-t").textContent = `${X.n} según ${(DIM[st.dim] || st.dim).toLowerCase()} (total de 12 meses)`;
-    serie(`${id}-det`, F, series, {fmtValor: x => x == null ? "–" : cantidad(st.d, x), eje0: true, inicio: 60, despues: (i0, i1) => {
+    serie(`${id}-det`, F, series, {agregar: "fin", finEsAnual: true, fmtValor: x => x == null ? "–" : cantidad(st.d, x), eje0: true, inicio: 60, despues: (i0, i1) => {
       const tot = orden.reduce((s, c) => s + (doce(cats[c], i1) || 0), 0) ;
       const partes = top.map(c => [c, doce(cats[c], i1)]).filter(x => x[1] != null);
       $$("det-txt").innerHTML = `En los 12 meses hasta ${MES_L(F[i1])} de ${F[i1].slice(0, 4)}: ` +
