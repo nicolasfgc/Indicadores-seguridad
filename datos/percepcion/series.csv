@@ -1,0 +1,443 @@
+anio,indicador,lugar,valor,edicion
+2015,victimizacion,28 ciudades,18.8248609095,2016
+2015,victimizacion,Armenia,16.3686232094,2016
+2015,victimizacion,Barranquilla,12.7943518392,2016
+2015,victimizacion,Bogotá,24.9938180976,2016
+2015,victimizacion,Bucaramanga,9.59879580897,2016
+2015,victimizacion,Buenaventura,7.42022192589,2016
+2015,victimizacion,Cali,15.7805782287,2016
+2015,victimizacion,Cartagena,9.77069255711,2016
+2015,victimizacion,Cúcuta,19.6259154753,2016
+2015,victimizacion,Ibagué,18.380777312,2016
+2015,victimizacion,Manizales,17.6168451717,2016
+2015,victimizacion,Medellín,15.8141691802,2016
+2015,victimizacion,Montería,14.0055123402,2016
+2015,victimizacion,Neiva,18.5162281742,2016
+2015,victimizacion,Palmira,14.6380457799,2016
+2015,victimizacion,Pasto,31.7479586974,2016
+2015,victimizacion,Pereira,14.0907757639,2016
+2015,victimizacion,Popayán,21.5741679379,2016
+2015,victimizacion,Quibdó,9.43061404459,2016
+2015,victimizacion,Riohacha,17.1207537501,2016
+2015,victimizacion,San Andrés,3.60523487753,2016
+2015,victimizacion,Santa Marta,11.3943511457,2016
+2015,victimizacion,Sincelejo,12.0214881446,2016
+2015,victimizacion,Soacha,20.6132832463,2016
+2015,victimizacion,Soledad,11.3529902085,2016
+2015,victimizacion,Tuluá,9.69123308314,2016
+2015,victimizacion,Tunja,18.6052638754,2016
+2015,victimizacion,Valledupar,22.6438359432,2016
+2015,victimizacion,Villavicencio,21.7375985242,2016
+2016,inseguridad_barrio,28 ciudades,34.153241573,2016
+2016,inseguridad_barrio,Armenia,24.7403029477,2016
+2016,inseguridad_barrio,Barranquilla,43.0617793751,2016
+2016,inseguridad_barrio,Bogotá,44.0801445496,2016
+2016,inseguridad_barrio,Bucaramanga,27.1211967526,2016
+2016,inseguridad_barrio,Buenaventura,17.7212994461,2016
+2016,inseguridad_barrio,Cali,32.0926091833,2016
+2016,inseguridad_barrio,Cartagena,40.0158276959,2016
+2016,inseguridad_barrio,Cúcuta,31.3779390828,2016
+2016,inseguridad_barrio,Ibagué,23.0744024286,2016
+2016,inseguridad_barrio,Manizales,17.7339699795,2016
+2016,inseguridad_barrio,Medellín,12.926102646,2016
+2016,inseguridad_barrio,Montería,16.8829056834,2016
+2016,inseguridad_barrio,Neiva,31.4564606419,2016
+2016,inseguridad_barrio,Palmira,28.2975023188,2016
+2016,inseguridad_barrio,Pasto,36.5230033293,2016
+2016,inseguridad_barrio,Pereira,13.763574025,2016
+2016,inseguridad_barrio,Popayán,33.5116556394,2016
+2016,inseguridad_barrio,Quibdó,34.9406901492,2016
+2016,inseguridad_barrio,Riohacha,37.832537693,2016
+2016,inseguridad_barrio,San Andrés,7.63604547351,2016
+2016,inseguridad_barrio,Santa Marta,18.0388493312,2016
+2016,inseguridad_barrio,Sincelejo,42.2059386657,2016
+2016,inseguridad_barrio,Soacha,63.3026026587,2016
+2016,inseguridad_barrio,Soledad,39.3759243394,2016
+2016,inseguridad_barrio,Tuluá,10.149912916,2016
+2016,inseguridad_barrio,Tunja,16.9805227903,2016
+2016,inseguridad_barrio,Valledupar,41.1395260808,2016
+2016,inseguridad_barrio,Villavicencio,33.8066736035,2016
+2017,inseguridad_barrio,28 ciudades,33.2472176924,2017
+2017,inseguridad_barrio,Armenia,17.4180932344,2017
+2017,inseguridad_barrio,Barranquilla,51.9969616175,2017
+2017,inseguridad_barrio,Bogotá,41.481945996,2017
+2017,inseguridad_barrio,Bucaramanga,26.8370419212,2017
+2017,inseguridad_barrio,Buenaventura,12.0858611423,2017
+2017,inseguridad_barrio,Cali,34.2651735549,2017
+2017,inseguridad_barrio,Cartagena,38.1368497122,2017
+2017,inseguridad_barrio,Cúcuta,32.3086634549,2017
+2017,inseguridad_barrio,Ibagué,23.7127602051,2017
+2017,inseguridad_barrio,Manizales,14.3410523353,2017
+2017,inseguridad_barrio,Medellín,12.1580513109,2017
+2017,inseguridad_barrio,Montería,16.9250028792,2017
+2017,inseguridad_barrio,Neiva,35.0327227274,2017
+2017,inseguridad_barrio,Palmira,26.3079487515,2017
+2017,inseguridad_barrio,Pasto,35.0470549847,2017
+2017,inseguridad_barrio,Pereira,10.8950149438,2017
+2017,inseguridad_barrio,Popayán,30.9906966337,2017
+2017,inseguridad_barrio,Quibdó,34.3268108879,2017
+2017,inseguridad_barrio,Riohacha,28.7890258471,2017
+2017,inseguridad_barrio,San Andrés,15.4850107066,2017
+2017,inseguridad_barrio,Santa Marta,13.994474783,2017
+2017,inseguridad_barrio,Sincelejo,32.4613358955,2017
+2017,inseguridad_barrio,Soacha,66.2241231978,2017
+2017,inseguridad_barrio,Soledad,30.4927052452,2017
+2017,inseguridad_barrio,Tuluá,4.38910165226,2017
+2017,inseguridad_barrio,Tunja,15.3366774155,2017
+2017,inseguridad_barrio,Valledupar,42.3392350006,2017
+2017,inseguridad_barrio,Villavicencio,42.7169232153,2017
+2017,victimizacion,28 ciudades,16.7339651991,2017
+2017,victimizacion,Armenia,12.8385383678,2017
+2017,victimizacion,Barranquilla,6.75782386176,2017
+2017,victimizacion,Bogotá,25.3400698414,2017
+2017,victimizacion,Bucaramanga,9.73465543101,2017
+2017,victimizacion,Buenaventura,2.85722686636,2017
+2017,victimizacion,Cali,11.6715619024,2017
+2017,victimizacion,Cartagena,8.68340275691,2017
+2017,victimizacion,Cúcuta,18.24319315,2017
+2017,victimizacion,Ibagué,16.9994543439,2017
+2017,victimizacion,Manizales,11.4588076035,2017
+2017,victimizacion,Medellín,14.8373906425,2017
+2017,victimizacion,Montería,9.08511651119,2017
+2017,victimizacion,Neiva,20.6730802254,2017
+2017,victimizacion,Palmira,9.39846334865,2017
+2017,victimizacion,Pasto,23.8581484591,2017
+2017,victimizacion,Pereira,6.29543992837,2017
+2017,victimizacion,Popayán,16.2989209885,2017
+2017,victimizacion,Quibdó,13.4149875613,2017
+2017,victimizacion,Riohacha,17.6774624107,2017
+2017,victimizacion,San Andrés,3.05285185906,2017
+2017,victimizacion,Santa Marta,9.45747102256,2017
+2017,victimizacion,Sincelejo,9.53872510892,2017
+2017,victimizacion,Soacha,9.4945133103,2017
+2017,victimizacion,Soledad,6.49454511501,2017
+2017,victimizacion,Tuluá,2.49953496006,2017
+2017,victimizacion,Tunja,14.462192903,2017
+2017,victimizacion,Valledupar,21.0071757472,2017
+2017,victimizacion,Villavicencio,16.950442448,2017
+2018,victimizacion,28 ciudades,18.6361016051,2018
+2018,victimizacion,Barranquilla,9.61193432935,2018
+2018,victimizacion,Bogotá,26.4894461938,2018
+2018,victimizacion,Bucaramanga,12.502735213,2018
+2018,victimizacion,Cabeceras,16.61902579,2018
+2018,victimizacion,Cali,18.2802221931,2018
+2018,victimizacion,Cartagena,9.62109560969,2018
+2018,victimizacion,Cúcuta,16.6857908527,2018
+2018,victimizacion,Ibagué,17.0610582124,2018
+2018,victimizacion,Manizales,11.9556968159,2018
+2018,victimizacion,Medellín,8.54421426265,2018
+2018,victimizacion,Montería,11.5505715493,2018
+2018,victimizacion,Pasto,25.5750930515,2018
+2018,victimizacion,Pereira,13.5966485078,2018
+2018,victimizacion,Total nacional,15.5593646108,2018
+2018,victimizacion,Villavicencio,22.3755893705,2018
+2018,victimizacion,Zona rural,11.6029048135,2018
+2019,denuncia,Barranquilla,25.37,2019
+2019,denuncia,Bogotá,36.087,2019
+2019,denuncia,Bucaramanga,31.069,2019
+2019,denuncia,Cabeceras,30.644,2019
+2019,denuncia,Cali,28.083,2019
+2019,denuncia,Cartagena,31.883,2019
+2019,denuncia,Cúcuta,22.763,2019
+2019,denuncia,Ibagué,24.488,2019
+2019,denuncia,Manizales,31.201,2019
+2019,denuncia,Medellín,25.713,2019
+2019,denuncia,Montería,29.611,2019
+2019,denuncia,Pasto,31.96,2019
+2019,denuncia,Pereira,25.195,2019
+2019,denuncia,Total nacional,30.189,2019
+2019,denuncia,Villavicencio,25.757,2019
+2019,denuncia,Zona rural,27.587,2019
+2019,inseguridad_barrio,28 ciudades,34.3969544818,2018
+2019,inseguridad_barrio,Barranquilla,37.8690344298,2018
+2019,inseguridad_barrio,Bogotá,44.1301178611,2018
+2019,inseguridad_barrio,Bucaramanga,31.8102159827,2018
+2019,inseguridad_barrio,Cabeceras,27.4274698134,2018
+2019,inseguridad_barrio,Cali,28.8227513318,2018
+2019,inseguridad_barrio,Cartagena,42.5170417234,2018
+2019,inseguridad_barrio,Cúcuta,27.6987336032,2018
+2019,inseguridad_barrio,Ibagué,26.8568384513,2018
+2019,inseguridad_barrio,Manizales,14.4558387378,2018
+2019,inseguridad_barrio,Medellín,15.8557535563,2018
+2019,inseguridad_barrio,Montería,21.4998332033,2018
+2019,inseguridad_barrio,Pasto,35.646939458,2018
+2019,inseguridad_barrio,Pereira,12.8917970726,2018
+2019,inseguridad_barrio,Total nacional,23.8739196215,2018
+2019,inseguridad_barrio,Villavicencio,33.1978464065,2018
+2019,inseguridad_barrio,Zona rural,10.6060197044,2018
+2019,inseguridad_ciudad,28 ciudades,63.3931871113,2018
+2019,inseguridad_ciudad,Barranquilla,53.7382163452,2018
+2019,inseguridad_ciudad,Bogotá,83.9890520634,2018
+2019,inseguridad_ciudad,Bucaramanga,49.8484314236,2018
+2019,inseguridad_ciudad,Cabeceras,50.1346603137,2018
+2019,inseguridad_ciudad,Cali,61.8407924318,2018
+2019,inseguridad_ciudad,Cartagena,73.9435640201,2018
+2019,inseguridad_ciudad,Cúcuta,48.2953683676,2018
+2019,inseguridad_ciudad,Ibagué,38.7265764673,2018
+2019,inseguridad_ciudad,Manizales,8.76743095968,2018
+2019,inseguridad_ciudad,Medellín,40.010654093,2018
+2019,inseguridad_ciudad,Montería,31.3863212522,2018
+2019,inseguridad_ciudad,Pasto,59.1491761733,2018
+2019,inseguridad_ciudad,Pereira,35.160187968,2018
+2019,inseguridad_ciudad,Total nacional,44.5664948964,2018
+2019,inseguridad_ciudad,Villavicencio,51.883576928,2018
+2019,inseguridad_ciudad,Zona rural,23.7766206895,2018
+2019,victimizacion,28 ciudades,11.726,2019
+2019,victimizacion,Barranquilla,4.716,2019
+2019,victimizacion,Bogotá,15.639,2019
+2019,victimizacion,Bucaramanga,5.983,2019
+2019,victimizacion,Cabeceras,10.91,2019
+2019,victimizacion,Cali,16.021,2019
+2019,victimizacion,Cartagena,4.001,2019
+2019,victimizacion,Cúcuta,11.964,2019
+2019,victimizacion,Ibagué,10.188,2019
+2019,victimizacion,Manizales,9.264,2019
+2019,victimizacion,Medellín,6.855,2019
+2019,victimizacion,Montería,8.432,2019
+2019,victimizacion,Pasto,16.142,2019
+2019,victimizacion,Pereira,8.907,2019
+2019,victimizacion,Total nacional,10.005,2019
+2019,victimizacion,Villavicencio,15.024,2019
+2019,victimizacion,Zona rural,6.783,2019
+2020,denuncia,Barranquilla,23.842,2020
+2020,denuncia,Bogotá,32.397,2020
+2020,denuncia,Bucaramanga,33.829,2020
+2020,denuncia,Cabeceras,29.942,2020
+2020,denuncia,Cali,29.866,2020
+2020,denuncia,Cartagena,28.747,2020
+2020,denuncia,Cúcuta,24.673,2020
+2020,denuncia,Ibagué,25.921,2020
+2020,denuncia,Manizales,27.331,2020
+2020,denuncia,Medellín,31.567,2020
+2020,denuncia,Montería,34.165,2020
+2020,denuncia,Pasto,30.096,2020
+2020,denuncia,Pereira,32.623,2020
+2020,denuncia,Total nacional,27.081,2020
+2020,denuncia,Villavicencio,27.924,2020
+2020,denuncia,Zona rural,13.37,2020
+2020,inseguridad_barrio,28 ciudades,29.289,2019
+2020,inseguridad_barrio,Barranquilla,33.122,2019
+2020,inseguridad_barrio,Bogotá,32.283,2019
+2020,inseguridad_barrio,Bucaramanga,37.122,2019
+2020,inseguridad_barrio,Cabeceras,23.355,2019
+2020,inseguridad_barrio,Cali,27.654,2019
+2020,inseguridad_barrio,Cartagena,34.99,2019
+2020,inseguridad_barrio,Cúcuta,45.736,2019
+2020,inseguridad_barrio,Ibagué,21.761,2019
+2020,inseguridad_barrio,Manizales,10.022,2019
+2020,inseguridad_barrio,Medellín,11.15,2019
+2020,inseguridad_barrio,Montería,16.159,2019
+2020,inseguridad_barrio,Pasto,31.995,2019
+2020,inseguridad_barrio,Pereira,8.605,2019
+2020,inseguridad_barrio,Total nacional,20.034,2019
+2020,inseguridad_barrio,Villavicencio,28.502,2019
+2020,inseguridad_barrio,Zona rural,8.211,2019
+2020,inseguridad_ciudad,28 ciudades,55.012,2019
+2020,inseguridad_ciudad,Barranquilla,41.554,2019
+2020,inseguridad_ciudad,Bogotá,68.967,2019
+2020,inseguridad_ciudad,Bucaramanga,50.173,2019
+2020,inseguridad_ciudad,Cabeceras,42.555,2019
+2020,inseguridad_ciudad,Cali,65.935,2019
+2020,inseguridad_ciudad,Cartagena,62.99,2019
+2020,inseguridad_ciudad,Cúcuta,71.857,2019
+2020,inseguridad_ciudad,Ibagué,29.17,2019
+2020,inseguridad_ciudad,Manizales,10.393,2019
+2020,inseguridad_ciudad,Medellín,31.207,2019
+2020,inseguridad_ciudad,Montería,28.435,2019
+2020,inseguridad_ciudad,Pasto,68.621,2019
+2020,inseguridad_ciudad,Pereira,26.735,2019
+2020,inseguridad_ciudad,Total nacional,38.987,2019
+2020,inseguridad_ciudad,Villavicencio,63.12,2019
+2020,inseguridad_ciudad,Zona rural,26.287,2019
+2020,victimizacion,Barranquilla,5.736,2020
+2020,victimizacion,Bogotá,14.59,2020
+2020,victimizacion,Bucaramanga,5.936,2020
+2020,victimizacion,Cabeceras,9.156,2020
+2020,victimizacion,Cali,10.136,2020
+2020,victimizacion,Cartagena,4.487,2020
+2020,victimizacion,Cúcuta,10.024,2020
+2020,victimizacion,Ibagué,13.026,2020
+2020,victimizacion,Manizales,10.26,2020
+2020,victimizacion,Medellín,6.754,2020
+2020,victimizacion,Montería,6.17,2020
+2020,victimizacion,Pasto,21.485,2020
+2020,victimizacion,Pereira,6.679,2020
+2020,victimizacion,Total nacional,8.679,2020
+2020,victimizacion,Villavicencio,12.054,2020
+2020,victimizacion,Zona rural,6.943,2020
+2021,denuncia,13 ciudades,33.097,2021
+2021,denuncia,Barranquilla,31.704,2021
+2021,denuncia,Bogotá,35.386,2021
+2021,denuncia,Bucaramanga,31.459,2021
+2021,denuncia,Cabeceras,30.94,2021
+2021,denuncia,Cali,31.585,2021
+2021,denuncia,Cartagena,32.714,2021
+2021,denuncia,Cúcuta,21.821,2021
+2021,denuncia,Ibagué,26.28,2021
+2021,denuncia,Manizales,25.066,2021
+2021,denuncia,Medellín,31.364,2021
+2021,denuncia,Montería,31.953,2021
+2021,denuncia,Pasto,34.623,2021
+2021,denuncia,Pereira,33.526,2021
+2021,denuncia,Total nacional,28.8,2021
+2021,denuncia,Villavicencio,26.958,2021
+2021,denuncia,Zona rural,16.078,2021
+2021,inseguridad_barrio,28 ciudades,30.311,2020
+2021,inseguridad_barrio,Barranquilla,33.286,2020
+2021,inseguridad_barrio,Bogotá,43.033,2020
+2021,inseguridad_barrio,Bucaramanga,32.638,2020
+2021,inseguridad_barrio,Cabeceras,24.034,2020
+2021,inseguridad_barrio,Cali,25.27,2020
+2021,inseguridad_barrio,Cartagena,32.625,2020
+2021,inseguridad_barrio,Cúcuta,36.51,2020
+2021,inseguridad_barrio,Ibagué,22.066,2020
+2021,inseguridad_barrio,Manizales,8.754,2020
+2021,inseguridad_barrio,Medellín,8.561,2020
+2021,inseguridad_barrio,Montería,19.91,2020
+2021,inseguridad_barrio,Pasto,35.641,2020
+2021,inseguridad_barrio,Pereira,6.863,2020
+2021,inseguridad_barrio,Total nacional,20.236,2020
+2021,inseguridad_barrio,Villavicencio,23.375,2020
+2021,inseguridad_barrio,Zona rural,6.431,2020
+2021,inseguridad_ciudad,28 ciudades,59.878,2020
+2021,inseguridad_ciudad,Barranquilla,41.892,2020
+2021,inseguridad_ciudad,Bogotá,77.779,2020
+2021,inseguridad_ciudad,Bucaramanga,64.623,2020
+2021,inseguridad_ciudad,Cabeceras,48.794,2020
+2021,inseguridad_ciudad,Cali,68.439,2020
+2021,inseguridad_ciudad,Cartagena,72.179,2020
+2021,inseguridad_ciudad,Cúcuta,73.483,2020
+2021,inseguridad_ciudad,Ibagué,36.854,2020
+2021,inseguridad_ciudad,Manizales,13.253,2020
+2021,inseguridad_ciudad,Medellín,31.081,2020
+2021,inseguridad_ciudad,Montería,29.331,2020
+2021,inseguridad_ciudad,Pasto,71.596,2020
+2021,inseguridad_ciudad,Pereira,19.07,2020
+2021,inseguridad_ciudad,Total nacional,44.011,2020
+2021,inseguridad_ciudad,Villavicencio,49.197,2020
+2021,inseguridad_ciudad,Zona rural,26.628,2020
+2021,victimizacion,13 ciudades,10.21,2021
+2021,victimizacion,Barranquilla,9.275,2021
+2021,victimizacion,Bogotá,13.557,2021
+2021,victimizacion,Bucaramanga,6.373,2021
+2021,victimizacion,Cabeceras,8.708,2021
+2021,victimizacion,Cali,8.501,2021
+2021,victimizacion,Cartagena,3.36,2021
+2021,victimizacion,Cúcuta,8.927,2021
+2021,victimizacion,Ibagué,8.535,2021
+2021,victimizacion,Manizales,10.527,2021
+2021,victimizacion,Medellín,6.353,2021
+2021,victimizacion,Montería,3.723,2021
+2021,victimizacion,Pasto,18.282,2021
+2021,victimizacion,Pereira,5.49,2021
+2021,victimizacion,Total nacional,7.974,2021
+2021,victimizacion,Villavicencio,11.04,2021
+2021,victimizacion,Zona rural,5.312,2021
+2022,inseguridad_barrio,13 ciudades,33.159,2021
+2022,inseguridad_barrio,28 ciudades,34.319,2021
+2022,inseguridad_barrio,Barranquilla,40.766,2021
+2022,inseguridad_barrio,Bogotá,41.319,2021
+2022,inseguridad_barrio,Bucaramanga,44.09,2021
+2022,inseguridad_barrio,Cabeceras,27.596,2021
+2022,inseguridad_barrio,Cali,33.553,2021
+2022,inseguridad_barrio,Cartagena,38.512,2021
+2022,inseguridad_barrio,Cúcuta,36.485,2021
+2022,inseguridad_barrio,Ibagué,27.385,2021
+2022,inseguridad_barrio,Manizales,7.621,2021
+2022,inseguridad_barrio,Medellín,8.976,2021
+2022,inseguridad_barrio,Montería,18.969,2021
+2022,inseguridad_barrio,Pasto,33.637,2021
+2022,inseguridad_barrio,Pereira,9.899,2021
+2022,inseguridad_barrio,Total nacional,23.718,2021
+2022,inseguridad_barrio,Villavicencio,40.783,2021
+2022,inseguridad_barrio,Zona rural,9.652,2021
+2022,inseguridad_ciudad,13 ciudades,71.095,2021
+2022,inseguridad_ciudad,28 ciudades,71.548,2021
+2022,inseguridad_ciudad,Barranquilla,64.322,2021
+2022,inseguridad_ciudad,Bogotá,83.775,2021
+2022,inseguridad_ciudad,Bucaramanga,79.22,2021
+2022,inseguridad_ciudad,Cabeceras,58.931,2021
+2022,inseguridad_ciudad,Cali,84.102,2021
+2022,inseguridad_ciudad,Cartagena,79.631,2021
+2022,inseguridad_ciudad,Cúcuta,56.994,2021
+2022,inseguridad_ciudad,Ibagué,49.644,2021
+2022,inseguridad_ciudad,Manizales,14.195,2021
+2022,inseguridad_ciudad,Medellín,49.482,2021
+2022,inseguridad_ciudad,Montería,34.884,2021
+2022,inseguridad_ciudad,Pasto,70.544,2021
+2022,inseguridad_ciudad,Pereira,31.817,2021
+2022,inseguridad_ciudad,Total nacional,52.932,2021
+2022,inseguridad_ciudad,Villavicencio,72.078,2021
+2022,inseguridad_ciudad,Zona rural,31.168,2021
+2023,denuncia,13 ciudades,37.201,2024
+2023,denuncia,28 ciudades,34.747,2024
+2023,denuncia,Barranquilla,32.427,2024
+2023,denuncia,Bogotá,43.12,2024
+2023,denuncia,Bucaramanga,30.875,2024
+2023,denuncia,Cabeceras,32.427,2024
+2023,denuncia,Cali,28.406,2024
+2023,denuncia,Cartagena,25.397,2024
+2023,denuncia,Cúcuta,24.861,2024
+2023,denuncia,Ibagué,23.968,2024
+2023,denuncia,Manizales,31.201,2024
+2023,denuncia,Medellín,35.276,2024
+2023,denuncia,Montería,25.706,2024
+2023,denuncia,Pasto,30.214,2024
+2023,denuncia,Pereira,28.026,2024
+2023,denuncia,Total nacional,30.771,2024
+2023,denuncia,Villavicencio,29.903,2024
+2023,denuncia,Zona rural,21.746,2024
+2023,victimizacion,13 ciudades,10.994,2024
+2023,victimizacion,28 ciudades,10.802,2024
+2023,victimizacion,Barranquilla,5.758,2024
+2023,victimizacion,Bogotá,14.685,2024
+2023,victimizacion,Bucaramanga,7.666,2024
+2023,victimizacion,Cabeceras,9.008,2024
+2023,victimizacion,Cali,9.003,2024
+2023,victimizacion,Cartagena,9.527,2024
+2023,victimizacion,Cúcuta,10.578,2024
+2023,victimizacion,Ibagué,10.192,2024
+2023,victimizacion,Manizales,7.714,2024
+2023,victimizacion,Medellín,6.295,2024
+2023,victimizacion,Montería,5.109,2024
+2023,victimizacion,Pasto,15.261,2024
+2023,victimizacion,Pereira,6.384,2024
+2023,victimizacion,Total nacional,8.38,2024
+2023,victimizacion,Villavicencio,16.22,2024
+2023,victimizacion,Zona rural,6.074,2024
+2024,inseguridad_barrio,13 ciudades,30.026,2024
+2024,inseguridad_barrio,28 ciudades,32.144,2024
+2024,inseguridad_barrio,Barranquilla,40.583,2024
+2024,inseguridad_barrio,Bogotá,39.034,2024
+2024,inseguridad_barrio,Bucaramanga,32.671,2024
+2024,inseguridad_barrio,Cabeceras,25.814,2024
+2024,inseguridad_barrio,Cali,21.732,2024
+2024,inseguridad_barrio,Cartagena,37.675,2024
+2024,inseguridad_barrio,Cúcuta,43.346,2024
+2024,inseguridad_barrio,Ibagué,25.093,2024
+2024,inseguridad_barrio,Manizales,7.031,2024
+2024,inseguridad_barrio,Medellín,7.839,2024
+2024,inseguridad_barrio,Montería,10.934,2024
+2024,inseguridad_barrio,Pasto,43.294,2024
+2024,inseguridad_barrio,Pereira,9.65,2024
+2024,inseguridad_barrio,Total nacional,22.218,2024
+2024,inseguridad_barrio,Villavicencio,27.939,2024
+2024,inseguridad_barrio,Zona rural,9.003,2024
+2024,inseguridad_ciudad,13 ciudades,62.264,2024
+2024,inseguridad_ciudad,28 ciudades,62.947,2024
+2024,inseguridad_ciudad,Barranquilla,62.152,2024
+2024,inseguridad_ciudad,Bogotá,78.693,2024
+2024,inseguridad_ciudad,Bucaramanga,60.55,2024
+2024,inseguridad_ciudad,Cabeceras,50.7,2024
+2024,inseguridad_ciudad,Cali,60.946,2024
+2024,inseguridad_ciudad,Cartagena,75.113,2024
+2024,inseguridad_ciudad,Cúcuta,77.786,2024
+2024,inseguridad_ciudad,Ibagué,36.973,2024
+2024,inseguridad_ciudad,Manizales,6.91,2024
+2024,inseguridad_ciudad,Medellín,30.579,2024
+2024,inseguridad_ciudad,Montería,19.157,2024
+2024,inseguridad_ciudad,Pasto,82.491,2024
+2024,inseguridad_ciudad,Pereira,27.59,2024
+2024,inseguridad_ciudad,Total nacional,46.289,2024
+2024,inseguridad_ciudad,Villavicencio,57.836,2024
+2024,inseguridad_ciudad,Zona rural,30.081,2024

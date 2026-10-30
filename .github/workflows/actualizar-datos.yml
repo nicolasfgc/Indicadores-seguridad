@@ -34,6 +34,12 @@ jobs:
         run: |
           if [ ! -f datos/poblacion/deptos.csv ] || [ "$(date -u +%d)" = "01" ]; then python scripts/poblacion.py; fi
 
+      # La encuesta del DANE es anual: se revisa el primer día de cada mes o si falta el archivo
+      - name: Percepción de seguridad (DANE, ECSC)
+        if: always()
+        run: |
+          if [ ! -f datos/percepcion/series.csv ] || [ "$(date -u +%d)" = "01" ]; then python scripts/percepcion.py; fi
+
       - name: Datos para la página web
         if: always()
         run: python scripts/web.py

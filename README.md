@@ -15,12 +15,14 @@ Hecho por **Nicolás González** · [nicolasfgcht@gmail.com](mailto:nicolasfgcht
 | Extorsión, secuestro y conflicto | Extorsión, secuestro simple y extorsivo, masacres, terrorismo, voladuras y Fuerza Pública afectada |
 | Violencia en el hogar | Violencia intrafamiliar, delitos sexuales y lesiones personales |
 | Narcotráfico | Incautaciones de cocaína, base de coca y bazuco; erradicación de cultivos ilícitos |
+| Percepción | Encuesta del DANE: cuántos se sienten inseguros (en la ciudad y en el barrio), cuántos fueron víctimas, cuántos denunciaron y por qué no, qué causa la inseguridad, por ciudad |
 
 Cada pestaña trae la serie mensual (y de 12 meses), la comparación del año corrido con el mismo periodo de años anteriores, el detalle por características, un mapa por departamento y un ranking de ciudades de más de 100.000 habitantes.
 
 ## Fuentes
 
 - **Delitos:** Ministerio de Defensa Nacional con datos de la Policía Nacional, en [datos.gov.co](https://www.datos.gov.co) (un conjunto por delito, ver [`datos/catalogo.csv`](datos/catalogo.csv)). Diarios, por municipio, desde 2003; se actualizan cada mes.
+- **Percepción:** DANE, Encuesta de Convivencia y Seguridad Ciudadana (ECSC), anexos de cada edición (2016–2021 y 2024; los de 2022 y 2023 no están en la página del DANE). Es una encuesta por muestreo; la victimización y la denuncia se refieren al año anterior a la encuesta.
 - **Población:** DANE, proyecciones de población con base en el Censo 2018 (departamental desde 1993 y municipal desde 2018).
 
 ## Notas sobre los datos

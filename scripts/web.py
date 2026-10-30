@@ -96,7 +96,35 @@ def main():
         x = mu[mu.cod_muni == c]
         ciudades[c] = {"n": str(nd.municipio.get(c, nm.municipio.get(c, c))), "dn": str(nd.departamento.get(c, "")), "d": c[:2], "pob": lista(p, am),
                        "v": {d: lista(h.set_index("anio").valor, am) for d, h in x.groupby("delito")}}
+    percepcion()
     guardar("ciudades.json", {"anios": am, "anio_parcial": a_act if mes_ult < 12 else None, "mes_corte": mes_ult, "ciudades": ciudades})
+
+
+def percepcion():
+    """Encuesta de Convivencia y Seguridad Ciudadana (DANE): series por año y detalle de la edición más reciente."""
+    p = DATOS / "percepcion" / "series.csv"
+    if not p.exists():
+        return
+    s = pd.read_csv(p)
+    anios = list(range(int(s.anio.min()), int(s.anio.max()) + 1))
+    out = {"anios": anios, "series": {}, "edicion": int(s.edicion.max())}
+    for (ind, lg), g in s.groupby(["indicador", "lugar"]):
+        out["series"].setdefault(ind, {})[lg] = lista(g.set_index("anio").valor, anios, 1)
+    t = pd.read_csv(DATOS / "percepcion" / "detalle.csv")
+    det = {}
+    for tb, g in t.groupby("tabla"):
+        if tb == "razones_no_denuncia":
+            det[tb] = {gr: {f: round(v, 1) for f, v in zip(h.fila, h.valor)} for gr, h in g.groupby("grupo")}
+        else:
+            x = {gr: {f: round(v, 1) for f, v in zip(h.fila, h.valor)} for gr, h in g.groupby("grupo")}
+            # el DANE repitió por error las cifras de un aspecto en otro: si dos aspectos tienen exactamente las mismas cifras,
+            # no se sabe cuál es el correcto y se quitan los dos
+            from collections import Counter
+            firmas = Counter(tuple(sorted(v.items())) for v in x.values())
+            limpio = {gr: v for gr, v in x.items() if firmas[tuple(sorted(v.items()))] == 1 or len(v) <= 3}
+            det[tb] = limpio
+    out["detalle"] = det
+    guardar("percepcion.json", out)
 
 
 def mapa_codigos():

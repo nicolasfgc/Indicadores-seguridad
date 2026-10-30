@@ -15,6 +15,7 @@
 <script src="assets/tema.js?v=1"></script>
 <script src="assets/resumen.js?v=1"></script>
 <script src="assets/pestanas.js?v=1"></script>
+<script src="assets/percepcion.js?v=1"></script>
 </head>
 <body>
 <header class="appbar">
@@ -36,6 +37,7 @@
     <a href="#conflicto" data-tab="conflicto">Extorsión, secuestro y conflicto</a>
     <a href="#violencia" data-tab="violencia">Violencia en el hogar</a>
     <a href="#narcotrafico" data-tab="narcotrafico">Narcotráfico</a>
+    <a href="#percepcion" data-tab="percepcion">Percepción</a>
   </nav>
 </div></div>
 <div class="wrap">
@@ -54,6 +56,60 @@
   <section class="tab" id="tab-conflicto" hidden><div class="cargando">Cargando datos…</div><div class="contenido" hidden></div></section>
   <section class="tab" id="tab-violencia" hidden><div class="cargando">Cargando datos…</div><div class="contenido" hidden></div></section>
   <section class="tab" id="tab-narcotrafico" hidden><div class="cargando">Cargando datos…</div><div class="contenido" hidden></div></section>
+
+  <section class="tab" id="tab-percepcion" hidden>
+    <div class="cargando">Cargando datos…</div>
+    <div class="contenido" hidden>
+      <div class="row spread mb"><p class="hint" style="margin:0">Lo que dice la gente, no la Policía: la Encuesta de Convivencia y Seguridad Ciudadana del DANE pregunta cada año a personas de 15 años o más si fueron víctimas de algún delito, si lo denunciaron y qué tan seguras se sienten.</p><span class="badge" id="per-ultima"></span></div>
+      <section class="kpis">
+        <div class="kpi"><div class="l">Inseguridad en la ciudad</div><div class="v" id="per-k1"></div><div class="d" id="per-k1d"></div></div>
+        <div class="kpi"><div class="l">Inseguridad en el barrio</div><div class="v" id="per-k2"></div><div class="d" id="per-k2d"></div></div>
+        <div class="kpi"><div class="l">Víctimas de algún delito</div><div class="v" id="per-k3"></div><div class="d" id="per-k3d"></div></div>
+        <div class="kpi"><div class="l">No denunciaron</div><div class="v" id="per-k4"></div><div class="d" id="per-k4d"></div></div>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>1</b>Qué tan seguros nos sentimos</span>
+        <h2>Personas que se sienten inseguras</h2>
+        <p class="hint">Porcentaje de personas de 15 años o más. Los años sin punto son años en que no hay encuesta publicada.</p>
+        <div class="chartbox" style="height:300px"><canvas id="per-insg"></canvas></div>
+        <p class="interp" id="per-insg-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>2</b>Lo que no aparece en las denuncias</span>
+        <h2>Víctimas y denuncia</h2>
+        <p class="hint">Porcentaje de personas de 15 años o más que fueron víctimas de algún delito en el año, y porcentaje de esas víctimas que lo denunció.</p>
+        <div class="chartbox" style="height:280px"><canvas id="per-vict"></canvas></div>
+        <p class="interp" id="per-vict-txt"></p>
+        <h2 id="per-raz-t" style="margin-top:22px"></h2>
+        <div class="row controles"><div class="seg" id="per-razon"></div></div>
+        <div class="chartbox"><canvas id="per-raz"></canvas></div>
+        <p class="interp" id="per-raz-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>3</b>Por ciudad</span>
+        <h2 id="per-ciu-t"></h2>
+        <div class="row controles"><div class="seg" id="per-cind"><button data-v="inseguridad_ciudad" class="on">Inseguridad en la ciudad</button><button data-v="inseguridad_barrio">En el barrio</button><button data-v="victimizacion">Víctimas</button><button data-v="denuncia">Denuncia</button></div>
+          <label class="lbl">Año:</label><select id="per-canio"></select></div>
+        <p class="hint">Las 28 ciudades principales que cubre la encuesta. Toca una para verla en el tiempo.</p>
+        <div class="chartbox"><canvas id="per-ciu"></canvas></div>
+        <div id="per-ciu-tiempo" hidden></div>
+        <p class="interp" id="per-ciu-txt"></p>
+      </section>
+      <section class="panel">
+        <span class="paso"><b>4</b>Por qué</span>
+        <h2>¿Qué hace que la gente se sienta insegura?</h2>
+        <p class="hint">Porcentaje de quienes se sienten inseguros en su ciudad o municipio que mencionan cada razón (encuesta más reciente, total nacional).</p>
+        <div class="chartbox"><canvas id="per-cau"></canvas></div>
+        <p class="interp" id="per-cau-txt"></p>
+        <h2 style="margin-top:22px">Caminar solo de noche por el barrio</h2>
+        <div class="chartbox" style="height:130px"><canvas id="per-cam"></canvas></div>
+        <p class="interp" id="per-otros-txt"></p>
+      </section>
+      <p class="foot">Fuente: DANE, Encuesta de Convivencia y Seguridad Ciudadana (ECSC), anexos de cada edición. Es una encuesta por muestreo: las cifras tienen margen de error, mayor en las ciudades pequeñas.
+        La victimización y la denuncia se refieren al año anterior a la encuesta; la percepción, al momento de la encuesta. Desde 2020 la victimización incluye incidentes de seguridad digital.
+        Datos: <a href="datos/percepcion/series.csv">series</a> · <a href="datos/percepcion/detalle.csv">detalle</a></p>
+    </div>
+  </section>
 
   <details class="sobre">
     <summary>¿De dónde salen los datos y cada cuánto se actualizan?</summary>

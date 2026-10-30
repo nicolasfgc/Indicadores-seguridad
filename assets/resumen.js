@@ -12,7 +12,8 @@ registrar("resumen", (() => {
   async function iniciar() {
     await datosBase();
     $("tab-resumen").querySelector(".tarjetas").innerHTML = TARJETAS.map(x => `<div class="tarjeta"><div class="tt"><h3>${x.t}</h3></div><div class="num" id="r-${x.d}-num"></div>
-      <div class="cambio" id="r-${x.d}-cam"></div><div class="mini"><canvas id="r-${x.d}-g"></canvas></div><p id="r-${x.d}-txt"></p><a class="mas" href="#${x.tab}">Ver más ›</a></div>`).join("");
+      <div class="cambio" id="r-${x.d}-cam"></div><div class="mini"><canvas id="r-${x.d}-g"></canvas></div><p id="r-${x.d}-txt"></p><a class="mas" href="#${x.tab}">Ver más ›</a></div>`).join("") +
+      `<div class="tarjeta"><div class="tt"><h3>Percepción de inseguridad</h3></div><div class="num" id="r-per-num"></div><div class="cambio" id="r-per-cam"></div><div class="mini"><canvas id="r-per-g"></canvas></div><p id="r-per-txt"></p><a class="mas" href="#percepcion">Ver más ›</a></div>`;
   }
   function mini(id, F, v, color) {
     dibujar(id, {type: "line", data: {labels: F, datasets: [{data: v, borderColor: color, borderWidth: 2, pointRadius: 0, tension: .3, fill: false, spanGaps: true}]},
@@ -20,7 +21,7 @@ registrar("resumen", (() => {
         scales: {x: {display: false}, y: {grid: {color: css("--line")}, ticks: {color: css("--muted"), maxTicksLimit: 3, font: {size: 10},
           callback: v => Math.abs(v) >= 1e6 ? fmt(v / 1e6, 1) + " M" : Math.abs(v) >= 1e3 ? fmt(v / 1e3, 0) + " mil" : fmt(v, v < 10 ? 1 : 0)}}}}});
   }
-  function render() {
+  async function render() {
     const k = corte();
     for (const x of TARJETAS) {
       const X = D.delitos[x.d], a = anioCorrido(x.d, k.y, k.m), b = anioCorrido(x.d, k.y - 1, k.m);
@@ -41,6 +42,13 @@ registrar("resumen", (() => {
       const i0 = Math.max(11, k.iu - 120);
       mini(`r-${x.d}-g`, D.meses.slice(i0, k.iu + 1), s12.slice(i0, k.iu + 1), css(x.c));
     }
+    // tarjeta de la encuesta del DANE
+    const E = await json("web/percepcion.json"), c = E.series.inseguridad_ciudad["Total nacional"], d = E.series.denuncia["Total nacional"];
+    const ic = c.findLastIndex(x => x != null), id = d.findLastIndex(x => x != null);
+    $("r-per-num").textContent = fmt(c[ic], 1) + "%";
+    $("r-per-cam").textContent = `se siente insegura en su ciudad (${E.anios[ic]})`;
+    $("r-per-txt").innerHTML = `Según la encuesta del DANE, <strong>${fmt(c[ic], 0)} de cada 100 personas</strong> se sienten inseguras en su ciudad o municipio. Y de quienes fueron víctimas de un delito, <strong>${fmt(100 - d[id], 0)} de cada 100 no denunciaron</strong>: por eso las cifras de la Policía se quedan cortas.`;
+    mini("r-per-g", E.anios.map(String), c, css("--s3"));
     $("res-nota").innerHTML = `Cifras de enero a ${MESES_L[k.m - 1]} de ${k.y} (el último mes completo), comparadas con el mismo periodo del año anterior. La línea de cada tarjeta es el total de los últimos 12 meses durante los últimos diez años.`;
   }
   return {iniciar, render};
