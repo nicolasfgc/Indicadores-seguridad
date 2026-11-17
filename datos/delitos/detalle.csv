@@ -14783,15 +14783,15 @@ mes,delito,dimension,categoria,valor
 2025-12-01,violencia_intrafamiliar,total,Total,6528
 2025-12-01,violencia_intrafamiliar,zona,Rural,98
 2025-12-01,violencia_intrafamiliar,zona,Urbana,6430
-2026-01-01,delitos_sexuales,sexo,Femenino,2070
-2026-01-01,delitos_sexuales,sexo,Masculino,417
-2026-01-01,delitos_sexuales,sexo,Sin establecer,44
-2026-01-01,delitos_sexuales,total,Total,2531
-2026-01-01,delitos_sexuales,zona,Rural,104
-2026-01-01,delitos_sexuales,zona,Urbana,2427
+2026-01-01,delitos_sexuales,sexo,Femenino,2093
+2026-01-01,delitos_sexuales,sexo,Masculino,414
+2026-01-01,delitos_sexuales,sexo,Sin establecer,45
+2026-01-01,delitos_sexuales,total,Total,2552
+2026-01-01,delitos_sexuales,zona,Rural,102
+2026-01-01,delitos_sexuales,zona,Urbana,2450
 2026-01-01,erradicacion,tipo_de_cultivo,Coca,87.548
 2026-01-01,erradicacion,total,Total,87.548
-2026-01-01,extorsion,total,Total,1107
+2026-01-01,extorsion,total,Total,1099
 2026-01-01,fuerza_publica,accion,Asesinados,4
 2026-01-01,fuerza_publica,accion,Heridos,45
 2026-01-01,fuerza_publica,total,Total,49
@@ -14807,122 +14807,122 @@ mes,delito,dimension,categoria,valor
 2026-01-01,homicidio,total,Total,1207
 2026-01-01,homicidio,zona,Rural,436
 2026-01-01,homicidio,zona,Urbana,771
-2026-01-01,homicidio_transito,total,Total,630
-2026-01-01,hurto_comercio,total,Total,2460
-2026-01-01,hurto_personas,total,Total,26375
+2026-01-01,homicidio_transito,total,Total,631
+2026-01-01,hurto_comercio,total,Total,2509
+2026-01-01,hurto_personas,total,Total,26325
 2026-01-01,hurto_residencias,total,Total,2223
-2026-01-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,819
-2026-01-01,hurto_vehiculos,tipo_delito,Motos,3212
-2026-01-01,hurto_vehiculos,total,Total,4031
-2026-01-01,incautacion_base,total,Total,6055.88862
-2026-01-01,incautacion_basuco,total,Total,107.56133
-2026-01-01,incautacion_cocaina,total,Total,74447.683
-2026-01-01,lesiones,sexo,Femenino,2713
-2026-01-01,lesiones,sexo,Masculino,4466
-2026-01-01,lesiones,sexo,Sin establecer,14
-2026-01-01,lesiones,total,Total,7193
+2026-01-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,827
+2026-01-01,hurto_vehiculos,tipo_delito,Motos,3220
+2026-01-01,hurto_vehiculos,total,Total,4047
+2026-01-01,incautacion_base,total,Total,6056.90162
+2026-01-01,incautacion_basuco,total,Total,107.97233
+2026-01-01,incautacion_cocaina,total,Total,74447.693
+2026-01-01,lesiones,sexo,Femenino,2689
+2026-01-01,lesiones,sexo,Masculino,4431
+2026-01-01,lesiones,sexo,Sin establecer,13
+2026-01-01,lesiones,total,Total,7133
 2026-01-01,masacres,total,Total,12
 2026-01-01,masacres_victimas,total,Total,40
 2026-01-01,pirateria_terrestre,total,Total,10
 2026-01-01,secuestro,tipo_delito,Secuestro extorsivo,29
 2026-01-01,secuestro,tipo_delito,Secuestro simple,14
 2026-01-01,secuestro,total,Total,43
-2026-01-01,terrorismo,total,Total,114
-2026-01-01,terrorismo,zona,Rural,40
-2026-01-01,terrorismo,zona,Urbana,74
-2026-01-01,violencia_intrafamiliar,total,Total,13034
+2026-01-01,terrorismo,total,Total,113
+2026-01-01,terrorismo,zona,Rural,42
+2026-01-01,terrorismo,zona,Urbana,71
+2026-01-01,violencia_intrafamiliar,total,Total,12751
 2026-01-01,violencia_intrafamiliar,zona,Rural,302
-2026-01-01,violencia_intrafamiliar,zona,Urbana,12732
-2026-02-01,delitos_sexuales,sexo,Femenino,2381
-2026-02-01,delitos_sexuales,sexo,Masculino,486
-2026-02-01,delitos_sexuales,sexo,Sin establecer,58
-2026-02-01,delitos_sexuales,total,Total,2925
+2026-01-01,violencia_intrafamiliar,zona,Urbana,12449
+2026-02-01,delitos_sexuales,sexo,Femenino,2395
+2026-02-01,delitos_sexuales,sexo,Masculino,483
+2026-02-01,delitos_sexuales,sexo,Sin establecer,60
+2026-02-01,delitos_sexuales,total,Total,2938
 2026-02-01,delitos_sexuales,zona,Rural,110
-2026-02-01,delitos_sexuales,zona,Urbana,2815
+2026-02-01,delitos_sexuales,zona,Urbana,2828
 2026-02-01,erradicacion,tipo_de_cultivo,Coca,573.735
 2026-02-01,erradicacion,total,Total,573.735
-2026-02-01,extorsion,total,Total,1061
+2026-02-01,extorsion,total,Total,1059
 2026-02-01,fuerza_publica,accion,Asesinados,10
-2026-02-01,fuerza_publica,accion,Heridos,57
-2026-02-01,fuerza_publica,total,Total,67
+2026-02-01,fuerza_publica,accion,Heridos,58
+2026-02-01,fuerza_publica,total,Total,68
 2026-02-01,homicidio,arma_medio,Arma blanca / cortopunzante,191
-2026-02-01,homicidio,arma_medio,Arma de fuego,846
+2026-02-01,homicidio,arma_medio,Arma de fuego,847
 2026-02-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,4
 2026-02-01,homicidio,arma_medio,Contundentes,49
 2026-02-01,homicidio,arma_medio,Dron / explosivo,3
-2026-02-01,homicidio,sexo,Femenino,84
-2026-02-01,homicidio,sexo,Masculino,1009
+2026-02-01,homicidio,sexo,Femenino,83
+2026-02-01,homicidio,sexo,Masculino,1011
 2026-02-01,homicidio,spoa_caracterizacion,Feminicidio,8
-2026-02-01,homicidio,spoa_caracterizacion,Homicidio intencional,1085
-2026-02-01,homicidio,total,Total,1093
-2026-02-01,homicidio,zona,Rural,395
+2026-02-01,homicidio,spoa_caracterizacion,Homicidio intencional,1086
+2026-02-01,homicidio,total,Total,1094
+2026-02-01,homicidio,zona,Rural,396
 2026-02-01,homicidio,zona,Urbana,698
-2026-02-01,homicidio_transito,total,Total,599
-2026-02-01,hurto_comercio,total,Total,2558
+2026-02-01,homicidio_transito,total,Total,600
+2026-02-01,hurto_comercio,total,Total,2663
 2026-02-01,hurto_financieras,total,Total,1
-2026-02-01,hurto_personas,total,Total,23338
+2026-02-01,hurto_personas,total,Total,23294
 2026-02-01,hurto_residencias,total,Total,2151
-2026-02-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,792
-2026-02-01,hurto_vehiculos,tipo_delito,Motos,2879
-2026-02-01,hurto_vehiculos,total,Total,3671
-2026-02-01,incautacion_base,total,Total,3029.69801
-2026-02-01,incautacion_basuco,total,Total,132.05728
-2026-02-01,incautacion_cocaina,total,Total,123336.68121
-2026-02-01,lesiones,sexo,Femenino,2944
-2026-02-01,lesiones,sexo,Masculino,4701
-2026-02-01,lesiones,sexo,Sin establecer,24
-2026-02-01,lesiones,total,Total,7669
+2026-02-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,796
+2026-02-01,hurto_vehiculos,tipo_delito,Motos,2895
+2026-02-01,hurto_vehiculos,total,Total,3691
+2026-02-01,incautacion_base,total,Total,3031.88401
+2026-02-01,incautacion_basuco,total,Total,132.73528
+2026-02-01,incautacion_cocaina,total,Total,123349.02321
+2026-02-01,lesiones,sexo,Femenino,2903
+2026-02-01,lesiones,sexo,Masculino,4559
+2026-02-01,lesiones,sexo,Sin establecer,21
+2026-02-01,lesiones,total,Total,7483
 2026-02-01,masacres,total,Total,6
 2026-02-01,masacres_victimas,total,Total,18
-2026-02-01,pirateria_terrestre,total,Total,5
+2026-02-01,pirateria_terrestre,total,Total,7
 2026-02-01,secuestro,tipo_delito,Secuestro extorsivo,27
 2026-02-01,secuestro,tipo_delito,Secuestro simple,25
 2026-02-01,secuestro,total,Total,52
 2026-02-01,terrorismo,total,Total,121
-2026-02-01,terrorismo,zona,Rural,38
-2026-02-01,terrorismo,zona,Urbana,83
-2026-02-01,violencia_intrafamiliar,total,Total,13973
-2026-02-01,violencia_intrafamiliar,zona,Rural,246
-2026-02-01,violencia_intrafamiliar,zona,Urbana,13727
-2026-03-01,delitos_sexuales,sexo,Femenino,2627
-2026-03-01,delitos_sexuales,sexo,Masculino,521
-2026-03-01,delitos_sexuales,sexo,Sin establecer,61
-2026-03-01,delitos_sexuales,total,Total,3209
+2026-02-01,terrorismo,zona,Rural,39
+2026-02-01,terrorismo,zona,Urbana,82
+2026-02-01,violencia_intrafamiliar,total,Total,13754
+2026-02-01,violencia_intrafamiliar,zona,Rural,248
+2026-02-01,violencia_intrafamiliar,zona,Urbana,13506
+2026-03-01,delitos_sexuales,sexo,Femenino,2625
+2026-03-01,delitos_sexuales,sexo,Masculino,519
+2026-03-01,delitos_sexuales,sexo,Sin establecer,62
+2026-03-01,delitos_sexuales,total,Total,3206
 2026-03-01,delitos_sexuales,zona,Rural,43
-2026-03-01,delitos_sexuales,zona,Urbana,3166
+2026-03-01,delitos_sexuales,zona,Urbana,3163
 2026-03-01,erradicacion,tipo_de_cultivo,Coca,1170.84
 2026-03-01,erradicacion,total,Total,1170.84
-2026-03-01,extorsion,total,Total,1203
+2026-03-01,extorsion,total,Total,1197
 2026-03-01,fuerza_publica,accion,Asesinados,11
 2026-03-01,fuerza_publica,accion,Heridos,74
 2026-03-01,fuerza_publica,total,Total,85
 2026-03-01,homicidio,arma_medio,Arma blanca / cortopunzante,221
-2026-03-01,homicidio,arma_medio,Arma de fuego,919
+2026-03-01,homicidio,arma_medio,Arma de fuego,920
 2026-03-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,3
-2026-03-01,homicidio,arma_medio,Contundentes,44
+2026-03-01,homicidio,arma_medio,Contundentes,43
 2026-03-01,homicidio,arma_medio,Dron / explosivo,1
 2026-03-01,homicidio,sexo,Femenino,89
 2026-03-01,homicidio,sexo,Masculino,1099
-2026-03-01,homicidio,spoa_caracterizacion,Feminicidio,13
-2026-03-01,homicidio,spoa_caracterizacion,Homicidio intencional,1175
+2026-03-01,homicidio,spoa_caracterizacion,Feminicidio,14
+2026-03-01,homicidio,spoa_caracterizacion,Homicidio intencional,1174
 2026-03-01,homicidio,total,Total,1188
 2026-03-01,homicidio,zona,Rural,397
 2026-03-01,homicidio,zona,Urbana,791
-2026-03-01,homicidio_transito,total,Total,759
-2026-03-01,hurto_comercio,total,Total,2514
+2026-03-01,homicidio_transito,total,Total,760
+2026-03-01,hurto_comercio,total,Total,2605
 2026-03-01,hurto_financieras,total,Total,2
-2026-03-01,hurto_personas,total,Total,22770
+2026-03-01,hurto_personas,total,Total,22814
 2026-03-01,hurto_residencias,total,Total,2275
-2026-03-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,841
-2026-03-01,hurto_vehiculos,tipo_delito,Motos,2744
-2026-03-01,hurto_vehiculos,total,Total,3585
-2026-03-01,incautacion_base,total,Total,3798.36898
-2026-03-01,incautacion_basuco,total,Total,112.81532
-2026-03-01,incautacion_cocaina,total,Total,95836.43335
-2026-03-01,lesiones,sexo,Femenino,3346
-2026-03-01,lesiones,sexo,Masculino,4969
-2026-03-01,lesiones,sexo,Sin establecer,25
-2026-03-01,lesiones,total,Total,8340
+2026-03-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,852
+2026-03-01,hurto_vehiculos,tipo_delito,Motos,2749
+2026-03-01,hurto_vehiculos,total,Total,3601
+2026-03-01,incautacion_base,total,Total,3798.43148
+2026-03-01,incautacion_basuco,total,Total,113.39232
+2026-03-01,incautacion_cocaina,total,Total,96150.62715
+2026-03-01,lesiones,sexo,Femenino,3293
+2026-03-01,lesiones,sexo,Masculino,4841
+2026-03-01,lesiones,sexo,Sin establecer,22
+2026-03-01,lesiones,total,Total,8156
 2026-03-01,masacres,total,Total,16
 2026-03-01,masacres_victimas,total,Total,49
 2026-03-01,pirateria_terrestre,total,Total,9
@@ -14930,105 +14930,105 @@ mes,delito,dimension,categoria,valor
 2026-03-01,secuestro,tipo_delito,Secuestro simple,10
 2026-03-01,secuestro,total,Total,43
 2026-03-01,terrorismo,total,Total,136
-2026-03-01,terrorismo,zona,Rural,33
-2026-03-01,terrorismo,zona,Urbana,103
-2026-03-01,violencia_intrafamiliar,total,Total,15236
-2026-03-01,violencia_intrafamiliar,zona,Rural,218
-2026-03-01,violencia_intrafamiliar,zona,Urbana,15018
+2026-03-01,terrorismo,zona,Rural,35
+2026-03-01,terrorismo,zona,Urbana,101
+2026-03-01,violencia_intrafamiliar,total,Total,14988
+2026-03-01,violencia_intrafamiliar,zona,Rural,232
+2026-03-01,violencia_intrafamiliar,zona,Urbana,14756
 2026-03-01,voladuras,clase_de_bien,Vías,2
 2026-03-01,voladuras,total,Total,2
-2026-04-01,delitos_sexuales,sexo,Femenino,2439
-2026-04-01,delitos_sexuales,sexo,Masculino,479
-2026-04-01,delitos_sexuales,sexo,Sin establecer,59
-2026-04-01,delitos_sexuales,total,Total,2977
-2026-04-01,delitos_sexuales,zona,Rural,50
-2026-04-01,delitos_sexuales,zona,Urbana,2927
+2026-04-01,delitos_sexuales,sexo,Femenino,2444
+2026-04-01,delitos_sexuales,sexo,Masculino,489
+2026-04-01,delitos_sexuales,sexo,Sin establecer,60
+2026-04-01,delitos_sexuales,total,Total,2993
+2026-04-01,delitos_sexuales,zona,Rural,51
+2026-04-01,delitos_sexuales,zona,Urbana,2942
 2026-04-01,erradicacion,tipo_de_cultivo,Coca,892.713
 2026-04-01,erradicacion,total,Total,892.713
-2026-04-01,extorsion,total,Total,1216
+2026-04-01,extorsion,total,Total,1206
 2026-04-01,fuerza_publica,accion,Asesinados,5
 2026-04-01,fuerza_publica,accion,Heridos,58
 2026-04-01,fuerza_publica,total,Total,63
-2026-04-01,homicidio,arma_medio,Arma blanca / cortopunzante,178
-2026-04-01,homicidio,arma_medio,Arma de fuego,919
+2026-04-01,homicidio,arma_medio,Arma blanca / cortopunzante,180
+2026-04-01,homicidio,arma_medio,Arma de fuego,920
 2026-04-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,22
-2026-04-01,homicidio,arma_medio,Contundentes,43
+2026-04-01,homicidio,arma_medio,Contundentes,45
 2026-04-01,homicidio,arma_medio,Dron / explosivo,4
-2026-04-01,homicidio,sexo,Femenino,96
-2026-04-01,homicidio,sexo,Masculino,1070
+2026-04-01,homicidio,sexo,Femenino,97
+2026-04-01,homicidio,sexo,Masculino,1074
 2026-04-01,homicidio,spoa_caracterizacion,Feminicidio,7
-2026-04-01,homicidio,spoa_caracterizacion,Homicidio intencional,1159
-2026-04-01,homicidio,total,Total,1166
-2026-04-01,homicidio,zona,Rural,406
-2026-04-01,homicidio,zona,Urbana,760
-2026-04-01,homicidio_transito,total,Total,791
-2026-04-01,hurto_comercio,total,Total,2320
+2026-04-01,homicidio,spoa_caracterizacion,Homicidio intencional,1164
+2026-04-01,homicidio,total,Total,1171
+2026-04-01,homicidio,zona,Rural,410
+2026-04-01,homicidio,zona,Urbana,761
+2026-04-01,homicidio_transito,total,Total,793
+2026-04-01,hurto_comercio,total,Total,2409
 2026-04-01,hurto_financieras,total,Total,1
-2026-04-01,hurto_personas,total,Total,20710
+2026-04-01,hurto_personas,total,Total,20662
 2026-04-01,hurto_residencias,total,Total,2000
-2026-04-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,726
-2026-04-01,hurto_vehiculos,tipo_delito,Motos,2582
-2026-04-01,hurto_vehiculos,total,Total,3308
-2026-04-01,incautacion_base,total,Total,4301.13409
-2026-04-01,incautacion_basuco,total,Total,121.03156
-2026-04-01,incautacion_cocaina,total,Total,73614.08335
-2026-04-01,lesiones,sexo,Femenino,3016
-2026-04-01,lesiones,sexo,Masculino,4496
-2026-04-01,lesiones,sexo,Sin establecer,28
-2026-04-01,lesiones,total,Total,7540
+2026-04-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,734
+2026-04-01,hurto_vehiculos,tipo_delito,Motos,2608
+2026-04-01,hurto_vehiculos,total,Total,3342
+2026-04-01,incautacion_base,total,Total,4314.06409
+2026-04-01,incautacion_basuco,total,Total,122.33756
+2026-04-01,incautacion_cocaina,total,Total,73614.17635
+2026-04-01,lesiones,sexo,Femenino,2994
+2026-04-01,lesiones,sexo,Masculino,4420
+2026-04-01,lesiones,sexo,Sin establecer,26
+2026-04-01,lesiones,total,Total,7440
 2026-04-01,masacres,total,Total,12
 2026-04-01,masacres_victimas,total,Total,63
 2026-04-01,pirateria_terrestre,total,Total,3
 2026-04-01,secuestro,tipo_delito,Secuestro extorsivo,24
-2026-04-01,secuestro,tipo_delito,Secuestro simple,8
-2026-04-01,secuestro,total,Total,32
-2026-04-01,terrorismo,total,Total,179
-2026-04-01,terrorismo,zona,Rural,24
-2026-04-01,terrorismo,zona,Urbana,155
-2026-04-01,violencia_intrafamiliar,total,Total,13490
-2026-04-01,violencia_intrafamiliar,zona,Rural,155
-2026-04-01,violencia_intrafamiliar,zona,Urbana,13335
+2026-04-01,secuestro,tipo_delito,Secuestro simple,9
+2026-04-01,secuestro,total,Total,33
+2026-04-01,terrorismo,total,Total,182
+2026-04-01,terrorismo,zona,Rural,29
+2026-04-01,terrorismo,zona,Urbana,153
+2026-04-01,violencia_intrafamiliar,total,Total,13137
+2026-04-01,violencia_intrafamiliar,zona,Rural,154
+2026-04-01,violencia_intrafamiliar,zona,Urbana,12983
 2026-04-01,voladuras,clase_de_bien,Vías,1
 2026-04-01,voladuras,total,Total,1
-2026-05-01,delitos_sexuales,sexo,Femenino,2636
-2026-05-01,delitos_sexuales,sexo,Masculino,491
-2026-05-01,delitos_sexuales,sexo,Sin establecer,53
-2026-05-01,delitos_sexuales,total,Total,3180
-2026-05-01,delitos_sexuales,zona,Rural,53
-2026-05-01,delitos_sexuales,zona,Urbana,3127
+2026-05-01,delitos_sexuales,sexo,Femenino,2688
+2026-05-01,delitos_sexuales,sexo,Masculino,500
+2026-05-01,delitos_sexuales,sexo,Sin establecer,55
+2026-05-01,delitos_sexuales,total,Total,3243
+2026-05-01,delitos_sexuales,zona,Rural,56
+2026-05-01,delitos_sexuales,zona,Urbana,3187
 2026-05-01,erradicacion,tipo_de_cultivo,Coca,867.965
 2026-05-01,erradicacion,total,Total,867.965
-2026-05-01,extorsion,total,Total,1219
+2026-05-01,extorsion,total,Total,1215
 2026-05-01,fuerza_publica,accion,Asesinados,14
-2026-05-01,fuerza_publica,accion,Heridos,99
-2026-05-01,fuerza_publica,total,Total,113
-2026-05-01,homicidio,arma_medio,Arma blanca / cortopunzante,186
-2026-05-01,homicidio,arma_medio,Arma de fuego,979
+2026-05-01,fuerza_publica,accion,Heridos,102
+2026-05-01,fuerza_publica,total,Total,116
+2026-05-01,homicidio,arma_medio,Arma blanca / cortopunzante,185
+2026-05-01,homicidio,arma_medio,Arma de fuego,983
 2026-05-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,8
 2026-05-01,homicidio,arma_medio,Contundentes,50
 2026-05-01,homicidio,arma_medio,Dron / explosivo,4
-2026-05-01,homicidio,sexo,Femenino,99
-2026-05-01,homicidio,sexo,Masculino,1128
+2026-05-01,homicidio,sexo,Femenino,101
+2026-05-01,homicidio,sexo,Masculino,1129
 2026-05-01,homicidio,spoa_caracterizacion,Feminicidio,14
-2026-05-01,homicidio,spoa_caracterizacion,Homicidio intencional,1213
-2026-05-01,homicidio,total,Total,1227
+2026-05-01,homicidio,spoa_caracterizacion,Homicidio intencional,1216
+2026-05-01,homicidio,total,Total,1230
 2026-05-01,homicidio,zona,Rural,464
-2026-05-01,homicidio,zona,Urbana,763
-2026-05-01,homicidio_transito,total,Total,867
-2026-05-01,hurto_comercio,total,Total,2232
+2026-05-01,homicidio,zona,Urbana,766
+2026-05-01,homicidio_transito,total,Total,871
+2026-05-01,hurto_comercio,total,Total,2449
 2026-05-01,hurto_financieras,total,Total,1
-2026-05-01,hurto_personas,total,Total,22956
+2026-05-01,hurto_personas,total,Total,22262
 2026-05-01,hurto_residencias,total,Total,2168
-2026-05-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,674
-2026-05-01,hurto_vehiculos,tipo_delito,Motos,2806
-2026-05-01,hurto_vehiculos,total,Total,3480
-2026-05-01,incautacion_base,total,Total,2117.20575
-2026-05-01,incautacion_basuco,total,Total,150.10744
-2026-05-01,incautacion_cocaina,total,Total,93755.95858
-2026-05-01,lesiones,sexo,Femenino,3723
-2026-05-01,lesiones,sexo,Masculino,5391
+2026-05-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,677
+2026-05-01,hurto_vehiculos,tipo_delito,Motos,2862
+2026-05-01,hurto_vehiculos,total,Total,3539
+2026-05-01,incautacion_base,total,Total,2113.20395
+2026-05-01,incautacion_basuco,total,Total,146.34944
+2026-05-01,incautacion_cocaina,total,Total,95519.67348
+2026-05-01,lesiones,sexo,Femenino,3608
+2026-05-01,lesiones,sexo,Masculino,5302
 2026-05-01,lesiones,sexo,Sin establecer,35
-2026-05-01,lesiones,total,Total,9149
+2026-05-01,lesiones,total,Total,8945
 2026-05-01,masacres,total,Total,7
 2026-05-01,masacres_victimas,total,Total,28
 2026-05-01,pirateria_terrestre,total,Total,3
@@ -15036,213 +15036,267 @@ mes,delito,dimension,categoria,valor
 2026-05-01,secuestro,tipo_delito,Secuestro simple,12
 2026-05-01,secuestro,total,Total,25
 2026-05-01,terrorismo,total,Total,133
-2026-05-01,terrorismo,zona,Rural,33
-2026-05-01,terrorismo,zona,Urbana,100
-2026-05-01,violencia_intrafamiliar,total,Total,15281
-2026-05-01,violencia_intrafamiliar,zona,Rural,165
-2026-05-01,violencia_intrafamiliar,zona,Urbana,15116
+2026-05-01,terrorismo,zona,Rural,38
+2026-05-01,terrorismo,zona,Urbana,95
+2026-05-01,violencia_intrafamiliar,total,Total,14908
+2026-05-01,violencia_intrafamiliar,zona,Rural,158
+2026-05-01,violencia_intrafamiliar,zona,Urbana,14750
 2026-05-01,voladuras,clase_de_bien,Vías,2
 2026-05-01,voladuras,total,Total,2
-2026-06-01,delitos_sexuales,sexo,Femenino,2159
-2026-06-01,delitos_sexuales,sexo,Masculino,459
-2026-06-01,delitos_sexuales,sexo,Sin establecer,53
-2026-06-01,delitos_sexuales,total,Total,2671
-2026-06-01,delitos_sexuales,zona,Rural,37
-2026-06-01,delitos_sexuales,zona,Urbana,2634
+2026-06-01,delitos_sexuales,sexo,Femenino,2228
+2026-06-01,delitos_sexuales,sexo,Masculino,479
+2026-06-01,delitos_sexuales,sexo,Sin establecer,56
+2026-06-01,delitos_sexuales,total,Total,2763
+2026-06-01,delitos_sexuales,zona,Rural,39
+2026-06-01,delitos_sexuales,zona,Urbana,2724
 2026-06-01,erradicacion,tipo_de_cultivo,Coca,1518.859
 2026-06-01,erradicacion,total,Total,1518.859
-2026-06-01,extorsion,total,Total,1245
+2026-06-01,extorsion,total,Total,1261
 2026-06-01,fuerza_publica,accion,Asesinados,11
 2026-06-01,fuerza_publica,accion,Heridos,44
 2026-06-01,fuerza_publica,total,Total,55
-2026-06-01,homicidio,arma_medio,Arma blanca / cortopunzante,217
-2026-06-01,homicidio,arma_medio,Arma de fuego,863
+2026-06-01,homicidio,arma_medio,Arma blanca / cortopunzante,218
+2026-06-01,homicidio,arma_medio,Arma de fuego,869
 2026-06-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,7
-2026-06-01,homicidio,arma_medio,Contundentes,48
+2026-06-01,homicidio,arma_medio,Contundentes,50
 2026-06-01,homicidio,arma_medio,Dron / explosivo,5
-2026-06-01,homicidio,sexo,Femenino,70
-2026-06-01,homicidio,sexo,Masculino,1070
+2026-06-01,homicidio,sexo,Femenino,73
+2026-06-01,homicidio,sexo,Masculino,1076
 2026-06-01,homicidio,spoa_caracterizacion,Feminicidio,8
-2026-06-01,homicidio,spoa_caracterizacion,Homicidio intencional,1132
-2026-06-01,homicidio,total,Total,1140
-2026-06-01,homicidio,zona,Rural,401
-2026-06-01,homicidio,zona,Urbana,739
-2026-06-01,homicidio_transito,total,Total,769
-2026-06-01,hurto_comercio,total,Total,1664
+2026-06-01,homicidio,spoa_caracterizacion,Homicidio intencional,1141
+2026-06-01,homicidio,total,Total,1149
+2026-06-01,homicidio,zona,Rural,405
+2026-06-01,homicidio,zona,Urbana,744
+2026-06-01,homicidio_transito,total,Total,755
+2026-06-01,hurto_comercio,total,Total,2260
 2026-06-01,hurto_financieras,total,Total,2
-2026-06-01,hurto_personas,total,Total,23060
+2026-06-01,hurto_personas,total,Total,20490
 2026-06-01,hurto_residencias,total,Total,2159
 2026-06-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,708
-2026-06-01,hurto_vehiculos,tipo_delito,Motos,2860
-2026-06-01,hurto_vehiculos,total,Total,3568
-2026-06-01,incautacion_base,total,Total,6789.70564
-2026-06-01,incautacion_basuco,total,Total,105.58584
-2026-06-01,incautacion_cocaina,total,Total,72128.52938
-2026-06-01,lesiones,sexo,Femenino,3547
-2026-06-01,lesiones,sexo,Masculino,5057
-2026-06-01,lesiones,sexo,Sin establecer,26
-2026-06-01,lesiones,total,Total,8630
+2026-06-01,hurto_vehiculos,tipo_delito,Motos,2868
+2026-06-01,hurto_vehiculos,total,Total,3576
+2026-06-01,incautacion_base,total,Total,6790.63784
+2026-06-01,incautacion_basuco,total,Total,106.34434
+2026-06-01,incautacion_cocaina,total,Total,72123.95088
+2026-06-01,lesiones,sexo,Femenino,3355
+2026-06-01,lesiones,sexo,Masculino,4847
+2026-06-01,lesiones,sexo,Sin establecer,22
+2026-06-01,lesiones,total,Total,8224
 2026-06-01,masacres,total,Total,7
 2026-06-01,masacres_victimas,total,Total,23
 2026-06-01,pirateria_terrestre,total,Total,1
-2026-06-01,secuestro,tipo_delito,Secuestro extorsivo,13
-2026-06-01,secuestro,tipo_delito,Secuestro simple,19
-2026-06-01,secuestro,total,Total,32
+2026-06-01,secuestro,tipo_delito,Secuestro extorsivo,16
+2026-06-01,secuestro,tipo_delito,Secuestro simple,20
+2026-06-01,secuestro,total,Total,36
 2026-06-01,terrorismo,total,Total,80
-2026-06-01,terrorismo,zona,Rural,10
-2026-06-01,terrorismo,zona,Urbana,70
-2026-06-01,violencia_intrafamiliar,total,Total,13362
-2026-06-01,violencia_intrafamiliar,zona,Rural,146
-2026-06-01,violencia_intrafamiliar,zona,Urbana,13216
+2026-06-01,terrorismo,zona,Rural,15
+2026-06-01,terrorismo,zona,Urbana,65
+2026-06-01,violencia_intrafamiliar,total,Total,13080
+2026-06-01,violencia_intrafamiliar,zona,Rural,144
+2026-06-01,violencia_intrafamiliar,zona,Urbana,12936
 2026-06-01,voladuras,clase_de_bien,Vías,1
 2026-06-01,voladuras,total,Total,1
-2026-07-01,delitos_sexuales,sexo,Femenino,2150
-2026-07-01,delitos_sexuales,sexo,Masculino,486
-2026-07-01,delitos_sexuales,sexo,Sin establecer,51
-2026-07-01,delitos_sexuales,total,Total,2687
-2026-07-01,delitos_sexuales,zona,Rural,36
-2026-07-01,delitos_sexuales,zona,Urbana,2651
+2026-07-01,delitos_sexuales,sexo,Femenino,2233
+2026-07-01,delitos_sexuales,sexo,Masculino,508
+2026-07-01,delitos_sexuales,sexo,Sin establecer,55
+2026-07-01,delitos_sexuales,total,Total,2796
+2026-07-01,delitos_sexuales,zona,Rural,40
+2026-07-01,delitos_sexuales,zona,Urbana,2756
 2026-07-01,erradicacion,tipo_de_cultivo,Coca,725.596
 2026-07-01,erradicacion,total,Total,725.596
-2026-07-01,extorsion,total,Total,1157
+2026-07-01,extorsion,total,Total,1215
 2026-07-01,fuerza_publica,accion,Asesinados,5
 2026-07-01,fuerza_publica,accion,Heridos,79
 2026-07-01,fuerza_publica,total,Total,84
-2026-07-01,homicidio,arma_medio,Arma blanca / cortopunzante,182
-2026-07-01,homicidio,arma_medio,Arma de fuego,1010
+2026-07-01,homicidio,arma_medio,Arma blanca / cortopunzante,183
+2026-07-01,homicidio,arma_medio,Arma de fuego,1014
 2026-07-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,15
 2026-07-01,homicidio,arma_medio,Contundentes,48
 2026-07-01,homicidio,sexo,Femenino,81
-2026-07-01,homicidio,sexo,Masculino,1174
-2026-07-01,homicidio,spoa_caracterizacion,Feminicidio,12
-2026-07-01,homicidio,spoa_caracterizacion,Homicidio intencional,1243
-2026-07-01,homicidio,total,Total,1255
-2026-07-01,homicidio,zona,Rural,456
-2026-07-01,homicidio,zona,Urbana,799
-2026-07-01,homicidio_transito,total,Total,783
-2026-07-01,hurto_comercio,total,Total,1738
+2026-07-01,homicidio,sexo,Masculino,1179
+2026-07-01,homicidio,spoa_caracterizacion,Feminicidio,11
+2026-07-01,homicidio,spoa_caracterizacion,Homicidio intencional,1249
+2026-07-01,homicidio,total,Total,1260
+2026-07-01,homicidio,zona,Rural,459
+2026-07-01,homicidio,zona,Urbana,801
+2026-07-01,homicidio_transito,total,Total,786
+2026-07-01,hurto_comercio,total,Total,2467
 2026-07-01,hurto_financieras,total,Total,3
-2026-07-01,hurto_personas,total,Total,24365
+2026-07-01,hurto_personas,total,Total,22407
 2026-07-01,hurto_residencias,total,Total,2046
-2026-07-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,841
-2026-07-01,hurto_vehiculos,tipo_delito,Motos,3001
-2026-07-01,hurto_vehiculos,total,Total,3842
-2026-07-01,incautacion_base,total,Total,4130.94116
-2026-07-01,incautacion_basuco,total,Total,169.13406
-2026-07-01,incautacion_cocaina,total,Total,79823.03965
-2026-07-01,lesiones,sexo,Femenino,3392
-2026-07-01,lesiones,sexo,Masculino,5015
-2026-07-01,lesiones,sexo,Sin establecer,31
-2026-07-01,lesiones,total,Total,8438
+2026-07-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,859
+2026-07-01,hurto_vehiculos,tipo_delito,Motos,3023
+2026-07-01,hurto_vehiculos,total,Total,3882
+2026-07-01,incautacion_base,total,Total,4131.06996
+2026-07-01,incautacion_basuco,total,Total,173.36676
+2026-07-01,incautacion_cocaina,total,Total,82825.98653
+2026-07-01,lesiones,sexo,Femenino,3230
+2026-07-01,lesiones,sexo,Masculino,4831
+2026-07-01,lesiones,sexo,Sin establecer,28
+2026-07-01,lesiones,total,Total,8089
 2026-07-01,masacres,total,Total,5
 2026-07-01,masacres_victimas,total,Total,15
-2026-07-01,pirateria_terrestre,total,Total,3
-2026-07-01,secuestro,tipo_delito,Secuestro extorsivo,16
-2026-07-01,secuestro,tipo_delito,Secuestro simple,21
-2026-07-01,secuestro,total,Total,37
-2026-07-01,terrorismo,total,Total,135
-2026-07-01,terrorismo,zona,Rural,30
+2026-07-01,pirateria_terrestre,total,Total,5
+2026-07-01,secuestro,tipo_delito,Secuestro extorsivo,19
+2026-07-01,secuestro,tipo_delito,Secuestro simple,23
+2026-07-01,secuestro,total,Total,42
+2026-07-01,terrorismo,total,Total,136
+2026-07-01,terrorismo,zona,Rural,31
 2026-07-01,terrorismo,zona,Urbana,105
-2026-07-01,violencia_intrafamiliar,total,Total,13500
-2026-07-01,violencia_intrafamiliar,zona,Rural,133
-2026-07-01,violencia_intrafamiliar,zona,Urbana,13367
-2026-08-01,delitos_sexuales,sexo,Femenino,2157
-2026-08-01,delitos_sexuales,sexo,Masculino,536
-2026-08-01,delitos_sexuales,sexo,Sin establecer,54
-2026-08-01,delitos_sexuales,total,Total,2747
-2026-08-01,delitos_sexuales,zona,Rural,34
-2026-08-01,delitos_sexuales,zona,Urbana,2713
+2026-07-01,violencia_intrafamiliar,total,Total,13444
+2026-07-01,violencia_intrafamiliar,zona,Rural,137
+2026-07-01,violencia_intrafamiliar,zona,Urbana,13307
+2026-08-01,delitos_sexuales,sexo,Femenino,2345
+2026-08-01,delitos_sexuales,sexo,Masculino,588
+2026-08-01,delitos_sexuales,sexo,Sin establecer,56
+2026-08-01,delitos_sexuales,total,Total,2989
+2026-08-01,delitos_sexuales,zona,Rural,38
+2026-08-01,delitos_sexuales,zona,Urbana,2951
 2026-08-01,erradicacion,tipo_de_cultivo,Coca,1214.537
 2026-08-01,erradicacion,total,Total,1214.537
-2026-08-01,extorsion,total,Total,1126
+2026-08-01,extorsion,total,Total,1285
 2026-08-01,fuerza_publica,accion,Asesinados,12
-2026-08-01,fuerza_publica,accion,Heridos,94
-2026-08-01,fuerza_publica,total,Total,106
-2026-08-01,homicidio,arma_medio,Arma blanca / cortopunzante,199
-2026-08-01,homicidio,arma_medio,Arma de fuego,917
-2026-08-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,13
-2026-08-01,homicidio,arma_medio,Contundentes,57
+2026-08-01,fuerza_publica,accion,Heridos,111
+2026-08-01,fuerza_publica,total,Total,123
+2026-08-01,homicidio,arma_medio,Arma blanca / cortopunzante,201
+2026-08-01,homicidio,arma_medio,Arma de fuego,924
+2026-08-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,15
+2026-08-01,homicidio,arma_medio,Contundentes,59
 2026-08-01,homicidio,arma_medio,Dron / explosivo,4
-2026-08-01,homicidio,sexo,Femenino,80
-2026-08-01,homicidio,sexo,Masculino,1110
+2026-08-01,homicidio,sexo,Femenino,82
+2026-08-01,homicidio,sexo,Masculino,1121
 2026-08-01,homicidio,spoa_caracterizacion,Feminicidio,12
-2026-08-01,homicidio,spoa_caracterizacion,Homicidio intencional,1178
-2026-08-01,homicidio,total,Total,1190
-2026-08-01,homicidio,zona,Rural,418
-2026-08-01,homicidio,zona,Urbana,772
-2026-08-01,homicidio_transito,total,Total,861
-2026-08-01,hurto_comercio,total,Total,1531
+2026-08-01,homicidio,spoa_caracterizacion,Homicidio intencional,1191
+2026-08-01,homicidio,total,Total,1203
+2026-08-01,homicidio,zona,Rural,428
+2026-08-01,homicidio,zona,Urbana,775
+2026-08-01,homicidio_transito,total,Total,869
+2026-08-01,hurto_comercio,total,Total,2451
 2026-08-01,hurto_financieras,total,Total,2
-2026-08-01,hurto_personas,total,Total,23158
+2026-08-01,hurto_personas,total,Total,22669
 2026-08-01,hurto_residencias,total,Total,2082
-2026-08-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,676
-2026-08-01,hurto_vehiculos,tipo_delito,Motos,2743
-2026-08-01,hurto_vehiculos,total,Total,3419
-2026-08-01,incautacion_base,total,Total,1017.90911
-2026-08-01,incautacion_basuco,total,Total,91.03704
-2026-08-01,incautacion_cocaina,total,Total,84660.69349
-2026-08-01,lesiones,sexo,Femenino,3495
-2026-08-01,lesiones,sexo,Masculino,5389
-2026-08-01,lesiones,sexo,Sin establecer,33
-2026-08-01,lesiones,total,Total,8917
+2026-08-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,698
+2026-08-01,hurto_vehiculos,tipo_delito,Motos,2862
+2026-08-01,hurto_vehiculos,total,Total,3560
+2026-08-01,incautacion_base,total,Total,1027.26147
+2026-08-01,incautacion_basuco,total,Total,103.19914
+2026-08-01,incautacion_cocaina,total,Total,91857.08549
+2026-08-01,lesiones,sexo,Femenino,3417
+2026-08-01,lesiones,sexo,Masculino,5308
+2026-08-01,lesiones,sexo,Sin establecer,35
+2026-08-01,lesiones,total,Total,8760
 2026-08-01,masacres,total,Total,10
 2026-08-01,masacres_victimas,total,Total,30
-2026-08-01,secuestro,tipo_delito,Secuestro extorsivo,18
-2026-08-01,secuestro,tipo_delito,Secuestro simple,24
-2026-08-01,secuestro,total,Total,42
-2026-08-01,terrorismo,total,Total,123
-2026-08-01,terrorismo,zona,Rural,17
-2026-08-01,terrorismo,zona,Urbana,106
-2026-08-01,violencia_intrafamiliar,total,Total,13024
-2026-08-01,violencia_intrafamiliar,zona,Rural,99
-2026-08-01,violencia_intrafamiliar,zona,Urbana,12925
-2026-09-01,delitos_sexuales,sexo,Femenino,1726
-2026-09-01,delitos_sexuales,sexo,Masculino,382
-2026-09-01,delitos_sexuales,sexo,Sin establecer,49
-2026-09-01,delitos_sexuales,total,Total,2157
-2026-09-01,delitos_sexuales,zona,Rural,21
-2026-09-01,delitos_sexuales,zona,Urbana,2136
-2026-09-01,extorsion,total,Total,630
+2026-08-01,secuestro,tipo_delito,Secuestro extorsivo,21
+2026-08-01,secuestro,tipo_delito,Secuestro simple,28
+2026-08-01,secuestro,total,Total,49
+2026-08-01,terrorismo,total,Total,130
+2026-08-01,terrorismo,zona,Rural,29
+2026-08-01,terrorismo,zona,Urbana,101
+2026-08-01,violencia_intrafamiliar,total,Total,13599
+2026-08-01,violencia_intrafamiliar,zona,Rural,123
+2026-08-01,violencia_intrafamiliar,zona,Urbana,13476
+2026-09-01,delitos_sexuales,sexo,Femenino,2152
+2026-09-01,delitos_sexuales,sexo,Masculino,464
+2026-09-01,delitos_sexuales,sexo,Sin establecer,64
+2026-09-01,delitos_sexuales,total,Total,2680
+2026-09-01,delitos_sexuales,zona,Rural,34
+2026-09-01,delitos_sexuales,zona,Urbana,2646
+2026-09-01,erradicacion,tipo_de_cultivo,Coca,1497.632
+2026-09-01,erradicacion,total,Total,1497.632
+2026-09-01,extorsion,total,Total,1120
 2026-09-01,fuerza_publica,accion,Asesinados,16
-2026-09-01,fuerza_publica,accion,Heridos,46
-2026-09-01,fuerza_publica,total,Total,62
-2026-09-01,homicidio,arma_medio,Arma blanca / cortopunzante,171
-2026-09-01,homicidio,arma_medio,Arma de fuego,756
+2026-09-01,fuerza_publica,accion,Heridos,54
+2026-09-01,fuerza_publica,total,Total,70
+2026-09-01,homicidio,arma_medio,Arma blanca / cortopunzante,173
+2026-09-01,homicidio,arma_medio,Arma de fuego,762
 2026-09-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,6
-2026-09-01,homicidio,arma_medio,Contundentes,30
+2026-09-01,homicidio,arma_medio,Contundentes,38
 2026-09-01,homicidio,arma_medio,Dron / explosivo,3
-2026-09-01,homicidio,sexo,Femenino,73
-2026-09-01,homicidio,sexo,Masculino,893
-2026-09-01,homicidio,spoa_caracterizacion,Feminicidio,10
-2026-09-01,homicidio,spoa_caracterizacion,Homicidio intencional,956
-2026-09-01,homicidio,total,Total,966
-2026-09-01,homicidio,zona,Rural,368
-2026-09-01,homicidio,zona,Urbana,598
-2026-09-01,homicidio_transito,total,Total,778
-2026-09-01,hurto_comercio,total,Total,1171
+2026-09-01,homicidio,sexo,Femenino,75
+2026-09-01,homicidio,sexo,Masculino,907
+2026-09-01,homicidio,spoa_caracterizacion,Feminicidio,11
+2026-09-01,homicidio,spoa_caracterizacion,Homicidio intencional,971
+2026-09-01,homicidio,total,Total,982
+2026-09-01,homicidio,zona,Rural,373
+2026-09-01,homicidio,zona,Urbana,609
+2026-09-01,homicidio_transito,total,Total,790
+2026-09-01,hurto_comercio,total,Total,2093
 2026-09-01,hurto_financieras,total,Total,1
-2026-09-01,hurto_personas,total,Total,19621
+2026-09-01,hurto_personas,total,Total,21020
 2026-09-01,hurto_residencias,total,Total,1764
-2026-09-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,617
-2026-09-01,hurto_vehiculos,tipo_delito,Motos,2281
-2026-09-01,hurto_vehiculos,total,Total,2898
-2026-09-01,incautacion_base,total,Total,12322.636
-2026-09-01,incautacion_basuco,total,Total,5.3
-2026-09-01,incautacion_cocaina,total,Total,36635.243
-2026-09-01,lesiones,sexo,Femenino,3097
-2026-09-01,lesiones,sexo,Masculino,4556
+2026-09-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,704
+2026-09-01,hurto_vehiculos,tipo_delito,Motos,2679
+2026-09-01,hurto_vehiculos,total,Total,3383
+2026-09-01,incautacion_base,total,Total,13142.31152
+2026-09-01,incautacion_basuco,total,Total,113.65145
+2026-09-01,incautacion_cocaina,total,Total,60665.66372
+2026-09-01,lesiones,sexo,Femenino,3270
+2026-09-01,lesiones,sexo,Masculino,4789
 2026-09-01,lesiones,sexo,Sin establecer,35
-2026-09-01,lesiones,total,Total,7688
+2026-09-01,lesiones,total,Total,8094
 2026-09-01,masacres,total,Total,7
 2026-09-01,masacres_victimas,total,Total,23
-2026-09-01,secuestro,tipo_delito,Secuestro extorsivo,12
-2026-09-01,secuestro,tipo_delito,Secuestro simple,12
-2026-09-01,secuestro,total,Total,24
-2026-09-01,terrorismo,total,Total,98
-2026-09-01,terrorismo,zona,Rural,9
-2026-09-01,terrorismo,zona,Urbana,89
-2026-09-01,violencia_intrafamiliar,total,Total,9639
-2026-09-01,violencia_intrafamiliar,zona,Rural,74
-2026-09-01,violencia_intrafamiliar,zona,Urbana,9565
+2026-09-01,pirateria_terrestre,total,Total,3
+2026-09-01,secuestro,tipo_delito,Secuestro extorsivo,16
+2026-09-01,secuestro,tipo_delito,Secuestro simple,14
+2026-09-01,secuestro,total,Total,30
+2026-09-01,terrorismo,total,Total,112
+2026-09-01,terrorismo,zona,Rural,18
+2026-09-01,terrorismo,zona,Urbana,94
+2026-09-01,violencia_intrafamiliar,total,Total,11240
+2026-09-01,violencia_intrafamiliar,zona,Rural,134
+2026-09-01,violencia_intrafamiliar,zona,Urbana,11106
 2026-09-01,voladuras,clase_de_bien,Vías,1
 2026-09-01,voladuras,total,Total,1
+2026-10-01,delitos_sexuales,sexo,Femenino,1610
+2026-10-01,delitos_sexuales,sexo,Masculino,292
+2026-10-01,delitos_sexuales,sexo,Sin establecer,47
+2026-10-01,delitos_sexuales,total,Total,1949
+2026-10-01,delitos_sexuales,zona,Rural,17
+2026-10-01,delitos_sexuales,zona,Urbana,1932
+2026-10-01,erradicacion,tipo_de_cultivo,Coca,1767.974
+2026-10-01,erradicacion,total,Total,1767.974
+2026-10-01,extorsion,total,Total,687
+2026-10-01,fuerza_publica,accion,Asesinados,10
+2026-10-01,fuerza_publica,accion,Heridos,61
+2026-10-01,fuerza_publica,total,Total,71
+2026-10-01,homicidio,arma_medio,Arma blanca / cortopunzante,154
+2026-10-01,homicidio,arma_medio,Arma de fuego,854
+2026-10-01,homicidio,arma_medio,Artefacto explosivo/carga dinamita,14
+2026-10-01,homicidio,arma_medio,Contundentes,29
+2026-10-01,homicidio,arma_medio,Dron / explosivo,2
+2026-10-01,homicidio,sexo,Femenino,80
+2026-10-01,homicidio,sexo,Masculino,973
+2026-10-01,homicidio,spoa_caracterizacion,Feminicidio,12
+2026-10-01,homicidio,spoa_caracterizacion,Homicidio intencional,1041
+2026-10-01,homicidio,total,Total,1053
+2026-10-01,homicidio,zona,Rural,384
+2026-10-01,homicidio,zona,Urbana,669
+2026-10-01,homicidio_transito,total,Total,609
+2026-10-01,hurto_comercio,total,Total,1717
+2026-10-01,hurto_financieras,total,Total,3
+2026-10-01,hurto_personas,total,Total,17522
+2026-10-01,hurto_vehiculos,tipo_delito,Carros y otros automotores,596
+2026-10-01,hurto_vehiculos,tipo_delito,Motos,2122
+2026-10-01,hurto_vehiculos,total,Total,2718
+2026-10-01,incautacion_base,total,Total,3066.86414
+2026-10-01,incautacion_basuco,total,Total,109.21301
+2026-10-01,incautacion_cocaina,total,Total,50531.14364
+2026-10-01,lesiones,sexo,Femenino,3004
+2026-10-01,lesiones,sexo,Masculino,4450
+2026-10-01,lesiones,sexo,Sin establecer,21
+2026-10-01,lesiones,total,Total,7475
+2026-10-01,masacres,total,Total,5
+2026-10-01,masacres_victimas,total,Total,18
+2026-10-01,secuestro,tipo_delito,Secuestro extorsivo,14
+2026-10-01,secuestro,tipo_delito,Secuestro simple,7
+2026-10-01,secuestro,total,Total,21
+2026-10-01,terrorismo,total,Total,117
+2026-10-01,terrorismo,zona,Rural,15
+2026-10-01,terrorismo,zona,Urbana,102
+2026-10-01,violencia_intrafamiliar,total,Total,8397
+2026-10-01,violencia_intrafamiliar,zona,Rural,93
+2026-10-01,violencia_intrafamiliar,zona,Urbana,8304
+2026-10-01,voladuras,clase_de_bien,Vías,2
+2026-10-01,voladuras,total,Total,2
